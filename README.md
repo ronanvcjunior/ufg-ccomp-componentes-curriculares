@@ -4,7 +4,7 @@
 
 | Sigla | Nome da Disciplina | Requisitos | Núcleo |
 |------------|------------|------------|------------|
-| IME-AL | [Álgebra Linear]() | []() | NC |
+| IME-AL | [Álgebra Linear](#álgebra-linear) | []() | NC |
 | INF-AED1 | [Algoritmos e Estruturas de Dados 1]() | [INF-IP](INF-IP) | NC |
 | INF-AED2 | [Algoritmos e Estruturas de Dados 2]() | [INF-AED1]() | NC |
 | INF-APA | [Análise e Projeto de Algoritmos]() | [INF-AED2]() | NC |
@@ -156,5 +156,8 @@ Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Aut
 
 | Livro | Nome da Obra | Autor | Idioma |
 |------------|------------|------------|------------|
-|  | Álgebra Linear. 3ed | BOLDRINI, J. L.; COSTA, S. I. R; FIGUEIREDO, V. L; WETZLER, H. G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
-
+| <img src="https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/img/algebra_linear_3ed.jpg" width="100"> | [Álgebra Linear 3ed](https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/livros/Algebra_Linear_3ed.pdf) | BOLDRINI, J. L.; COSTA, S. I. R; FIGUEIREDO, V. L; WETZLER, H. G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+|<img src="https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/img/algebra_linear_com_aplicacoes_8ed.jpg" width="100"> | [Introdução à álgebra linear: com aplicações 8ed](https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/livros/algebra_linear_com_aplicacoes_8ed.pdf) | KOLMAN, B.; HILL, D. R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/img/algebra_linear_4ed.jpg" width="100"> | [Álgebra linear 4ed](https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/livros/algebra_linear_4ed.pdf) | LIPSCHUTZ, S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/img/algebra_linear_e_aplicacoes_6ed.jpg" width="100"> | [Álgebra linear e aplicações 6ed](https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/livros/algebra_linear_e_aplicacoes_6ed.pdf) | CALLIOLI, C. A.; DOMINGUES, H. H.; COSTA, R. C. F. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/img/algebra_linear_e_aplicacoes_6ed.jpg" width="100"> | [Álgebra linear e aplicações 9ed](https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/livros/algebra_linear_e_aplicacoes_9ed.pdf) | CALLIOLI, C. A.; DOMINGUES, H. H.; COSTA, R. C. F. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
