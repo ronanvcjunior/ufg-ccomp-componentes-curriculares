@@ -149,3 +149,12 @@
 | INF-VI | [Visualização de Informações]() | []() | NE |
 | INF-WS  | [Web Semântica]() | []() | NE |
 #
+# Ementas e Bibliografias dos Componentes Curriculares
+
+## ÁLGEBRA LINEAR
+Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Autovalores e autovetores. Espaços com produto interno.
+
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+|  | Álgebra Linear. 3ed | BOLDRINI, J. L.; COSTA, S. I. R; FIGUEIREDO, V. L; WETZLER, H. G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+
