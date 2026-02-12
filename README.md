@@ -8,7 +8,7 @@
 | INF-AED1 | [Algoritmos e Estruturas de Dados 1](#algoritmos-e-estruturas-de-dados-1) | [INF-IP](INF-IP) | NC |
 | INF-AED2 | [Algoritmos e Estruturas de Dados 2](#algoritmos-e-estruturas-de-dados-2) | [INF-AED1]() | NC |
 | INF-APA | [Análise e Projeto de Algoritmos](#análise-e-projeto-de-algoritmos) | [INF-AED2]() | NC |
-| INF-ARQ | [Arquitetura de Computadores]() | []() | NC  |
+| INF-ARQ | [Arquitetura de Computadores](#arquitetura-de-computadores) | []() | NC  |
 | INF-BD | [Banco de Dados]() | []() | NC |
 | IME-C1A | [Cálculo 1A]() | []() | NC |
 | IME-C2A | [Cálculo 2A]() | [IME-C1A]() (co) | NE |
@@ -190,3 +190,14 @@ Medidas de complexidade, análise assintótica de limites de complexidade para a
 | <img src="./img/algoritmos_teoria_e_pratica_3ed.jpg" width="100"> | [ Algoritmos: Teoria e Prática. 3ed](/livros/algoritmos_teoria_e_pratica_3ed.pdf) | CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/fundamentals_of_algorithms.jpg" width="100"> | [Fundamentals of Algorithmics](/livros/fundamentals_of_algorithms.pdf) | BRASSARD, G; BRATLEY, P. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/algoritmos.jpg" width="100"> | [Algoritmos](/livros/algoritmos.pdf) | PAPADIMITRIOU, C. H.; VAZIRANI, U. V. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## ARQUITETURA DE COMPUTADORES
+Visão geral dos computadores modernos. Evolução da arquitetura dos computadores. Memória e representação de dados e instruções. Processador, ciclo de instrução, formato e endereçamento. Noções básicas de programação em linguagem de montagem. Dispositivos de entrada e saída. Sistemas de interconexão (barramentos). Interfaceamento e técnicas de entrada e saída. Hierarquia de memória. Introdução a arquiteturas paralelas e métricas de desempenho.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/organizacao_estruturada_de_computadores_6ed.jpg" width="100"> | [Organização Estruturada de Computadores 6ed](/livros/organizaao_estruturada_de_computadores_6ed.pdf) | TANENBAUM, A. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/arquitetura_e_organizacao_de_computadores_5ed.png" width="100"> | [Arquitetura e Organização de Computadores 5ed](/livros/arquitetura_e_organizaao_de_computadores_5ed.pdf) | STALLINGS, W. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/arquitetura_e_organizacao_de_computadores_10ed.jpg" width="100"> | [Arquitetura e Organização de Computadores 10ed](/livros/arquitetura_e_organizaao_de_computadores_10ed.pdf) | STALLINGS, W. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/computer_systems_a_programmers_erspective_2ed.jpg" width="100"> | [Computer Systems: A Programmer’s Perspective 2ed](/livros/computer_systems_a_programmers_erspective_2ed.pdf) | BRYANT, R.; O’RALLARON, D. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/computer_systems_a_programmers_erspective_3ed.jpg" width="100"> | [Computer Systems: A Programmer’s Perspective 3ed](/livros/computer_systems_a_programmers_erspective_3ed.pdf) | BRYANT, R.; O’RALLARON, D. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
