@@ -5,8 +5,8 @@
 | Sigla | Nome da Disciplina | Requisitos | Núcleo |
 |------------|------------|------------|------------|
 | IME-AL | [Álgebra Linear](#álgebra-linear) | []() | NC |
-| INF-AED1 | [Algoritmos e Estruturas de Dados 1]() | [INF-IP](INF-IP) | NC |
-| INF-AED2 | [Algoritmos e Estruturas de Dados 2]() | [INF-AED1]() | NC |
+| INF-AED1 | [Algoritmos e Estruturas de Dados 1](#algoritmos-e-estruturas-de-dados-1) | [INF-IP](INF-IP) | NC |
+| INF-AED2 | [Algoritmos e Estruturas de Dados 2](#algoritmos-e-estruturas-de-dados-2) | [INF-AED1]() | NC |
 | INF-APA | [Análise e Projeto de Algoritmos]() | [INF-AED2]() | NC |
 | INF-ARQ | [Arquitetura de Computadores]() | []() | NC  |
 | INF-BD | [Banco de Dados]() | []() | NC |
@@ -156,14 +156,24 @@ Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Aut
 #
 | Livro | Nome da Obra | Autor | Idioma |
 |------------|------------|------------|------------|
-| <img src="https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/img/algebra_linear_3ed.jpg" width="100"> | [Álgebra Linear 3ed](https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/livros/Algebra_Linear_3ed.pdf) | BOLDRINI, J. L.; COSTA, S. I. R; FIGUEIREDO, V. L; WETZLER, H. G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
-|<img src="https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/img/algebra_linear_com_aplicacoes_8ed.jpg" width="100"> | [Introdução à álgebra linear: com aplicações 8ed](https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/livros/algebra_linear_com_aplicacoes_8ed.pdf) | KOLMAN, B.; HILL, D. R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
-| <img src="https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/img/algebra_linear_4ed.jpg" width="100"> | [Álgebra linear 4ed](https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/livros/algebra_linear_4ed.pdf) | LIPSCHUTZ, S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
-| <img src="https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/img/algebra_linear_e_aplicacoes_6ed.jpg" width="100"> | [Álgebra linear e aplicações 6ed](https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/livros/algebra_linear_e_aplicacoes_6ed.pdf) | CALLIOLI, C. A.; DOMINGUES, H. H.; COSTA, R. C. F. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
-| <img src="https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/img/algebra_linear_e_aplicacoes_6ed.jpg" width="100"> | [Álgebra linear e aplicações 9ed](https://github.com/ronanvcjunior/ufg-ccomp-componentes-curriculares/blob/main/livros/algebra_linear_e_aplicacoes_9ed.pdf) | CALLIOLI, C. A.; DOMINGUES, H. H.; COSTA, R. C. F. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/algebra_linear_3ed.jpg" width="100"> | [Álgebra Linear 3ed](./livros/Algebra_Linear_3ed.pdf) | BOLDRINI, J. L.; COSTA, S. I. R; FIGUEIREDO, V. L; WETZLER, H. G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+|<img src="./img/algebra_linear_com_aplicacoes_8ed.jpg" width="100"> | [Introdução à álgebra linear: com aplicações 8ed](./livros/algebra_linear_com_aplicacoes_8ed.pdf) | KOLMAN, B.; HILL, D. R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/algebra_linear_4ed.jpg" width="100"> | [Álgebra linear 4ed](./livros/algebra_linear_4ed.pdf) | LIPSCHUTZ, S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/algebra_linear_e_aplicacoes_6ed.jpg" width="100"> | [Álgebra linear e aplicações 6ed](./livros/algebra_linear_e_aplicacoes_6ed.pdf) | CALLIOLI, C. A.; DOMINGUES, H. H.; COSTA, R. C. F. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/algebra_linear_e_aplicacoes_9ed.webp" width="100"> | [Álgebra linear e aplicações 9ed](./livros/algebra_linear_e_aplicacoes_9ed.pdf) | CALLIOLI, C. A.; DOMINGUES, H. H.; COSTA, R. C. F. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## ALGORITMOS E ESTRUTURAS DE DADOS 1
 Noções de complexidade de algoritmos (notações de complexidade). Recursividade. Algoritmos de pesquisa: pesquisa sequencial e binária. Algoritmos de ordenação. Tipos abstratos de dados. Estruturas de dados utilizando vetores: pilhas, filas, listas (simples e circulares). Estruturas de dados com alocação dinâmica de memória: pilhas, filas, listas (simplesmente encadeadas, duplamente encadeadas e circulares).
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/estruturas_de_dados_usando_c.jpg" width="100"> | [Estruturas de Dados Usando C](/livros/estruturas_de_dados_usando_c.pdf) | TENENBAUM, A. M., LANGSAM, Y., AUGENSTEIN, M. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/estruturas_de_dados_e_seus_algoritmos_2ed.jpg" width="100"> | [Estruturas de Dados e seus Algoritmos 2ed](/livros/estruturas_de_dados_e_seus_algoritmos_2ed.pdf) | SZWARCFITER, J. L., MARKENZON, L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/estruturas_de_dados_e_seus_algoritmos_3ed.jpg" width="100"> | [Estruturas de Dados e seus Algoritmos 3ed](/livros/estruturas_de_dados_e_seus_algoritmos_3ed.pdf) | SZWARCFITER, J. L., MARKENZON, L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/algoritmos_em_linguagem_c.jpg" width="100"> | [Algoritmos em Linguagem](/livros/algoritmos_em_linguagem_c.pdf) | FEOFILOFF, P. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## ALGORITMOS E ESTRUTURAS DE DADOS 2
+Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca, árvores balanceadas (AVL e rubro-negras). Filas de prioridades. Heaps, Heapsort. Hashing: tipos de funções de hashing; tratamento de colisões. Definições de Grafos. Estruturas de Dados para representação de grafos. Algoritmos básicos em grafos.
 #
 | Livro | Nome da Obra | Autor | Idioma |
 |------------|------------|------------|------------|
