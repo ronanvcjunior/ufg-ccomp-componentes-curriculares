@@ -7,7 +7,7 @@
 | IME-AL | [Álgebra Linear](#álgebra-linear) | []() | NC |
 | INF-AED1 | [Algoritmos e Estruturas de Dados 1](#algoritmos-e-estruturas-de-dados-1) | [INF-IP](INF-IP) | NC |
 | INF-AED2 | [Algoritmos e Estruturas de Dados 2](#algoritmos-e-estruturas-de-dados-2) | [INF-AED1]() | NC |
-| INF-APA | [Análise e Projeto de Algoritmos]() | [INF-AED2]() | NC |
+| INF-APA | [Análise e Projeto de Algoritmos](#análise-e-projeto-de-algoritmos) | [INF-AED2]() | NC |
 | INF-ARQ | [Arquitetura de Computadores]() | []() | NC  |
 | INF-BD | [Banco de Dados]() | []() | NC |
 | IME-C1A | [Cálculo 1A]() | []() | NC |
@@ -181,3 +181,12 @@ Noções de complexidade de algoritmos (notações de complexidade). Recursivida
 | <img src="./img/estruturas_de_dados_e_seus_algoritmos_2ed.jpg" width="100"> | [Estruturas de Dados e seus Algoritmos 2ed](/livros/estruturas_de_dados_e_seus_algoritmos_2ed.pdf) | SZWARCFITER, J. L., MARKENZON, L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/estruturas_de_dados_e_seus_algoritmos_3ed.jpg" width="100"> | [Estruturas de Dados e seus Algoritmos 3ed](/livros/estruturas_de_dados_e_seus_algoritmos_3ed.pdf) | SZWARCFITER, J. L., MARKENZON, L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/algoritmos_em_linguagem_c.jpg" width="100"> | [Algoritmos em Linguagem](/livros/algoritmos_em_linguagem_c.pdf) | FEOFILOFF, P. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## ANÁLISE E PROJETO DE ALGORITMOS
+Medidas de complexidade, análise assintótica de limites de complexidade para algoritmos iterativos e recursivos, técnicas de prova de cotas inferiores. Corretude de Algoritmos. Exemplos de análise de algoritmos. Técnicas de projeto de algoritmos: dividir para conquistar, programação dinâmica, algoritmos gulosos. Introdução à NP-Completude.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/algoritmos_teoria_e_pratica_3ed.jpg" width="100"> | [ Algoritmos: Teoria e Prática. 3ed](/livros/algoritmos_teoria_e_pratica_3ed.pdf) | CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/fundamentals_of_algorithms.jpg" width="100"> | [Fundamentals of Algorithmics](/livros/fundamentals_of_algorithms.pdf) | BRASSARD, G; BRATLEY, P. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/algoritmos.jpg" width="100"> | [Algoritmos](/livros/algoritmos.pdf) | PAPADIMITRIOU, C. H.; VAZIRANI, U. V. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
