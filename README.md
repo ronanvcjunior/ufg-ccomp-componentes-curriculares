@@ -28,7 +28,7 @@
 | INF-IHC | [Interação Humano-Computador](#interação-humano-computador) | []() | NC |
 | INF-ICCC | [Introdução à Computabilidade e à Complexidade Computacional]() | [INF-LFA](); [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
 | INF-IP | [Introdução à Programação](#introdução-à-programação) | []() | NC |
-| INF-LPP | [Linguagens e Paradigmas de Programação]() | []() | NC |
+| INF-LPP | [Linguagens e Paradigmas de Programação](#linguagens-e-paradigmas-de-programação) | []() | NC |
 | INF-LFA | [Linguagens Formais e Autômatos]() | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
 | INF-LM | [Lógica Matemática]() | [INF-MD]() | NC |
 | INF-MD | [Matemática Discreta]() | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
@@ -269,3 +269,13 @@ Introdução a algoritmos. Conceitos básicos de programas: constantes; tipos de
 | <img src="./img/logica_de_programacao_a_construcao_de_algoritmos_e_estruturas_de_dados_3ed.jpg" width="100"> | [Lógica de Programação: A construção de algoritmos e estruturas de dados 3ed](/livros/logica_de_programacao_a_construcao_de_algoritmos_e_estruturas_de_dados_3ed.pdf) | FOBERLONE, A. L. V.; EBERSPACHER, H. F. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/fundamentos_da_programacao_de_computadores_3ed.jpg" width="100"> | [Fundamentos da Programação de Computadores 3ed](/livros/fundamentos_da_programacao_de_computadores_3ed.pdf) | ASCENCIO, A. F. G.; CAMPOS C, E. A. V. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/c_completo_e_total_3ed.jpg" width="100"> | [C Completo e Total 3ed](/livros/c_completo_e_total_3ed.pdf) | SCHILDT, H. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## LINGUAGENS E PARADIGMAS DE PROGRAMAÇÃO
+Estudo dos conceitos de linguagens de programação e dos paradigmas de programação: procedural, funcional, lógico, orientado a objeto e script. Reflexão sobre as características desejáveis em uma linguagem de programação e os critérios de seleção de linguagens de acordo com as especificidades dos domínios de aplicação. Descrição de sintaxe e semântica. Estudo sobre tipos de dados, estruturas de controle, ambientes de execução, variáveis, expressões e subprogramas em linguagens de programação.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/conceitos_de_linguagens_de_programacao_9ed.jpg" width="100"> | [Conceitos de Linguagens de Programação 9ed](/livros/conceitos_de_linguagens_de_programacao_9ed.pdf) | SEBESTA, R. W. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/concepts_of_programming_languages_11ed.webp" width="100"> | [Concepts of Programming Languages 11ed](/livros/concepts_of_programming_languages_11ed.pdf) | SEBESTA, R. W. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/programming_language_pragmatics_3ed.jpg" width="100"> | [Programming Language Pragmatics 3ed](/livros/programming_language_pragmatics_3ed.pdf) | SCOTT, M. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/programming_language_concepts_3ed.jpg" width="100"> | [Programming Language Concepts 3ed](/livros/programming_language_concepts_3ed.pdf) | GHEZZI, C.; JAZAYERI, M. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
