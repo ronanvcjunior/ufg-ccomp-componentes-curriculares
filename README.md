@@ -12,7 +12,7 @@
 | INF-BD | [Banco de Dados](#banco-de-dados) | []() | NC |
 | IME-C1A | [Cálculo 1A](#cálculo-1a) | []() | NC |
 | IME-C2A | [Cálculo 2A](#cálculo-2a) | [IME-C1A](#cálculo-1a) (co) | NE |
-| IME-CN | [Cálculo Numérico]() | [IME-EDO]() | NE |
+| IME-CN | [Cálculo Numérico](#cálculo-numérico) | [IME-EDO]() | NE |
 | EMC-CD | [Circuitos Digitais]() | []() | NE |
 | INF-COMP | [Compiladores]() | [INF-LFA]() | NE |
 | INF-CS | [Computação e Sociedade](#computação-e-sociedade) | []() | NC |
@@ -235,6 +235,15 @@ Sequências e séries numéricas. Séries de potência, convergência. Funções
 | <img src="./img/um_curso_de_calculo_v3_6ed.jpg" width="100"> | [Um curso de cálculo V3 6ed](/livros/um_curso_de_calculo_v3_6ed.pdf) | GUIDORIZZI, H. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/calculo_v2_5ed.webp" width="100"> | [Cálculo V2 5ed](/livros/calculo_v2_5ed.pdf) | STEWART, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/calculo_v2_7ed.jpg" width="100"> | [Cálculo V2 7ed](/livros/calculo_v2_7ed.pdf) | STEWART, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## CÁLCULO NUMÉRICO
+Resolução de sistemas lineares, métodos diretos e métodos iterativos. Integração e interpolação. Cálculo de raízes de equações. Resolução numérica de equações diferenciais.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/algoritimos_numerico_2ed.jpg" width="100"> | [ Algoritmos Numérico 2ed](/livros/algoritimos_numerico_2ed.pdf) | CAMPOS FILHO, F. F. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/calculo_numerico.jpg" width="100"> | [Cálculo Numérico](/livros/calculo_numerico.pdf) | FRANCO, N. B. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/calculo_numerico_aspectos_teoricos_e_computacionais_2ed.jpg" width="100"> | [Cálculo Numérico: Aspectos teóricos e computacionais 2ed](/livros/calculo_numerico_aspectos_teoricos_e_computacionais_2ed.pdf) | RUGGIERO, M. A. G.; LOPES, V. L. R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## COMPUTAÇÃO E SOCIEDADE
 História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares. Importância e desafios da computação no Brasil e no mundo. Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão. Leis e normas relacionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação. Ética na Computação. Empresas de tecnologia da informação. Incubadoras de empresas.
