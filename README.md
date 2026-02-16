@@ -12,14 +12,14 @@
 | INF-BD | [Banco de Dados](#banco-de-dados) | []() | NC |
 | IME-C1A | [Cálculo 1A](#cálculo-1a) | []() | NC |
 | IME-C2A | [Cálculo 2A](#cálculo-2a) | [IME-C1A](#cálculo-1a) (co) | NE |
-| IME-CN | [Cálculo Numérico](#cálculo-numérico) | [IME-EDO]() | NE |
+| IME-CN | [Cálculo Numérico](#cálculo-numérico) | [IME-EDO](#equações-diferenciais-ordinárias) | NE |
 | EMC-CD | [Circuitos Digitais](#circuitos-digitais) | []() | NE |
 | INF-COMP | [Compiladores](#compiladores) | [INF-LFA]() | NE |
 | INF-CS | [Computação e Sociedade](#computação-e-sociedade) | []() | NC |
 | INF-CG | [Computação Gráfica](#computação-gráfica) | [IME-GA](); [IME-AL](#álgebra-linear) | NE  |
 | INF-CP | [Computação Paralela](#computação-paralela) | []() | NE |
 | INF-ES | [Engenharia de Software](#engenharia-de-software) | []() | NC |
-| IME-EDO | [Equações Diferenciais Ordinárias]() | [IME-C2A](#cálculo-2a) | NE |
+| IME-EDO | [Equações Diferenciais Ordinárias](#equações-diferenciais-ordinárias) | [IME-C2A](#cálculo-2a) | NE |
 | IF-FE1 | [Física Experimental I]() | [IF-F1]() (co) | NE |
 | IF-F1 | [Física I]() | [IME-C1A](#cálculo-1a) (co) | NE |
 | INF-FMC | [Fundamentos de Matemática para Computação](#fundamentos-de-matemática-para-computação) | []() | NC |
@@ -295,6 +295,17 @@ Requisitos de software. Projeto (design) de software. Construção de software. 
 | <img src="./img/engenharia_de_software_conceitos_e_praticas.jpg" width="100"> | [Engenharia de software: conceitos e práticas](/livros/) | WAZLAWICK, R. S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/pmbok_7ed.png" width="100"> | [Guia PMBOK 7ed](/livros/pmbok_7ed.pdf) | PMI | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/pmbok_8ed.jpg" width="100"> | [PMBOK Guide 8ed](/livros/pmbok_8ed.pdf) | PMI | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+#
+## EQUAÇÕES DIFERENCIAIS ORDINÁRIAS
+Equações diferenciais ordinárias de primeira ordem lineares e não lineares. Sistemas lineares de equações diferenciais ordinárias. Equações diferenciais ordinárias de ordem superior. Aplicações.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/equacoes_diferenciais_elementares_e_problemas_de_valores_de_contorno.jpg" width="100"> | [Equações diferenciais Elementares e Problemas de Valores de Contorno](/livros/equacoes_diferenciais_elementares_e_problemas_de_valores_de_contorno.pdf) | BOYCE, W. E.; DIPRIMA, R. C. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/equacoes_diferenciais_aplicadas.png" width="100"> | [Equações Diferenciais Aplicadas](/livros/equacoes_diferenciais_aplicadas.pdf) | DE FIGUEIREDO, D. G.; NEVES, A. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/equaoes_diferenciais_com_aplicaoes_em_modelagem.webp" width="100"> | [Equações Diferenciais com aplicações em modelagem](https://drive.google.com/file/d/1wACSEf1ZK-WOBJskW83fnU-wgIERZgRV/view?usp=drive_link) | ZILL, D. G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/equações_diferenciais_v1_3ed.jpg" width="100"> | [Equações Diferenciais V1 3ed](/livros/equações_diferenciais_v1_3ed.pdf) | ZILL, D. G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/equações_diferenciais_v2_3ed.jpg" width="100"> | [Equações Diferenciais V2 3ed](/livros/equações_diferenciais_v2_3ed.pdf) | ZILL, D. G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## FUNDAMENTOS DE MATEMÁTICA PARA COMPUTAÇÃO
 Noções de lógica, Introdução a demonstrações, Indução matemática, Recursividade e Relações de Recorrência, Conjuntos e Combinatória. Séries e sequências. Relações e Funções. Representações numéricas e Mudança de base numérica.
