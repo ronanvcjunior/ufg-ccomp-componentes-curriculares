@@ -13,7 +13,7 @@
 | IME-C1A | [Cálculo 1A](#cálculo-1a) | []() | NC |
 | IME-C2A | [Cálculo 2A](#cálculo-2a) | [IME-C1A](#cálculo-1a) (co) | NE |
 | IME-CN | [Cálculo Numérico](#cálculo-numérico) | [IME-EDO]() | NE |
-| EMC-CD | [Circuitos Digitais]() | []() | NE |
+| EMC-CD | [Circuitos Digitais](#circuitos-digitais) | []() | NE |
 | INF-COMP | [Compiladores]() | [INF-LFA]() | NE |
 | INF-CS | [Computação e Sociedade](#computação-e-sociedade) | []() | NC |
 | INF-CG | [Computação Gráfica]() | [IME-GA](); [IME-AL](#álgebra-linear) | NE  |
@@ -101,7 +101,7 @@
 | INF-MES | [Mercado e Economia de Software]() | []() | NE |
 | INF-MH | [Meta-heurísticas]() | []() | NE |
 | INF-MEES | [Metodologia e Experimentação em Engenharia de Software]() | []() | NE |
-| INF-MICRO | [Microcontroladores]() | [EMC-CD]() | NE |
+| INF-MICRO | [Microcontroladores]() | [EMC-CD](#circuitos-digitais) | NE |
 | INF-MSD | [Middleware para Sistemas Distribuídos]() | []() | NE |
 | INF-MDADOS | [Mineração de Dados]() | []() | NE |
 | INF-MC | [Modelos de Concorrência]() | [INF-LC]() | NE |
@@ -241,9 +241,17 @@ Resolução de sistemas lineares, métodos diretos e métodos iterativos. Integr
 #
 | Livro | Nome da Obra | Autor | Idioma |
 |------------|------------|------------|------------|
-| <img src="./img/algoritimos_numerico_2ed.jpg" width="100"> | [ Algoritmos Numérico 2ed](/livros/algoritimos_numerico_2ed.pdf) | CAMPOS FILHO, F. F. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/algoritimos_numerico_2ed.jpg" width="100"> | [Algoritmos Numérico 2ed](/livros/algoritimos_numerico_2ed.pdf) | CAMPOS FILHO, F. F. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/calculo_numerico.jpg" width="100"> | [Cálculo Numérico](/livros/calculo_numerico.pdf) | FRANCO, N. B. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/calculo_numerico_aspectos_teoricos_e_computacionais_2ed.jpg" width="100"> | [Cálculo Numérico: Aspectos teóricos e computacionais 2ed](/livros/calculo_numerico_aspectos_teoricos_e_computacionais_2ed.pdf) | RUGGIERO, M. A. G.; LOPES, V. L. R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## CIRCUITOS DIGITAIS
+Álgebra booleana e portas lógicas. Introdução a Circuitos Combinacionais, Circuitos Seqüenciais e Famílias Lógicas de Circuitos Integrados. Técnicas de minimização e síntese de Circuitos Combinacionais e Circuitos Seqüenciais. Conversores Analógico-Digitais e Digitais-Analógicos. Dispositivos de memória
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/sistemas_digitais_principios_e_aplicacoes_11ed.jpg" width="100"> | [Sistemas Digitais – Princípios e Aplicações 11ed](/livros/sistemas_digitais_principios_e_aplicacoes_11ed.pdf) | TOCCI, R. J.; WIDMER, N. S.; MOSS, G. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/logic_and_computer_design_fundamentals_5ed.jpg" width="100"> | [Logic & Computer Design Fundamentals 5ed](/livros/logic_and_computer_design_fundamentals_5ed.pdf) | MANO, M.; KIME, C. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## COMPUTAÇÃO E SOCIEDADE
 História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares. Importância e desafios da computação no Brasil e no mundo. Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão. Leis e normas relacionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação. Ética na Computação. Empresas de tecnologia da informação. Incubadoras de empresas.
