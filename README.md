@@ -5,28 +5,28 @@
 | Sigla | Nome da Disciplina | Requisitos | Núcleo |
 |------------|------------|------------|------------|
 | IME-AL | [Álgebra Linear](#álgebra-linear) | []() | NC |
-| INF-AED1 | [Algoritmos e Estruturas de Dados 1](#algoritmos-e-estruturas-de-dados-1) | [INF-IP](INF-IP) | NC |
-| INF-AED2 | [Algoritmos e Estruturas de Dados 2](#algoritmos-e-estruturas-de-dados-2) | [INF-AED1]() | NC |
-| INF-APA | [Análise e Projeto de Algoritmos](#análise-e-projeto-de-algoritmos) | [INF-AED2]() | NC |
+| INF-AED1 | [Algoritmos e Estruturas de Dados 1](#algoritmos-e-estruturas-de-dados-1) | [INF-IP]() | NC |
+| INF-AED2 | [Algoritmos e Estruturas de Dados 2](#algoritmos-e-estruturas-de-dados-2) | [INF-AED1](#algoritmos-e-estruturas-de-dados-1) | NC |
+| INF-APA | [Análise e Projeto de Algoritmos](#análise-e-projeto-de-algoritmos) | [INF-AED2](#algoritmos-e-estruturas-de-dados-2) | NC |
 | INF-ARQ | [Arquitetura de Computadores](#arquitetura-de-computadores) | []() | NC  |
-| INF-BD | [Banco de Dados]() | []() | NC |
-| IME-C1A | [Cálculo 1A]() | []() | NC |
-| IME-C2A | [Cálculo 2A]() | [IME-C1A]() (co) | NE |
+| INF-BD | [Banco de Dados](#banco-de-dados) | []() | NC |
+| IME-C1A | [Cálculo 1A](#cálculo-1a) | []() | NC |
+| IME-C2A | [Cálculo 2A]() | [IME-C1A](#cálculo-1a) (co) | NE |
 | IME-CN | [Cálculo Numérico]() | [IME-EDO]() | NE |
 | EMC-CD | [Circuitos Digitais]() | []() | NE |
 | INF-COMP | [Compiladores]() | [INF-LFA]() | NE |
-| INF-CS | [Computação e Sociedade]() | []() | NC |
-| INF-CG | [Computação Gráfica]() | [IME-GA](); [IME-AL]() | NE  |
+| INF-CS | [Computação e Sociedade](#computação-e-sociedade) | []() | NC |
+| INF-CG | [Computação Gráfica]() | [IME-GA](); [IME-AL](#álgebra-linear) | NE  |
 | INF-CP | [Computação Paralela]() | []() | NE |
 | INF-ES | [Engenharia de Software]() | []() | NC |
 | IME-EDO | [Equações Diferenciais Ordinárias]() | [IME-C2A]() | NE |
 | IF-FE1 | [Física Experimental I]() | [IF-F1]() (co) | NE |
-| IF-F1 | [Física I]() | [IME-C1A]() (co) | NE |
+| IF-F1 | [Física I]() | [IME-C1A](#cálculo-1a) (co) | NE |
 | INF-FMC | [Fundamentos de Matemática para Computação]() | []() | NC |
 | IME-GA | [Geometria Analítica]() | []() | NE |
 | INF-IA | [Inteligência Artificial]() | [IME-PEA]() | NE |
 | INF-IHC | [Interação Humano-Computador]() | []() | NC |
-| INF-ICCC | [Introdução à Computabilidade e à Complexidade Computacional]() | [INF-LFA](); [INF-APA]() | NE |
+| INF-ICCC | [Introdução à Computabilidade e à Complexidade Computacional]() | [INF-LFA](); [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
 | INF-IP | [Introdução à Programação]() | []() | NC |
 | INF-LPP | [Linguagens e Paradigmas de Programação]() | []() | NC |
 | INF-LFA | [Linguagens Formais e Autômatos]() | [INF-FMC]() | NE |
@@ -34,14 +34,14 @@
 | INF-MD | [Matemática Discreta]() | [INF-FMC]() | NE |
 | INF-MPC | [Metodologia de Pesquisa em Computação]() | []() | NE |
 | INF-PO | [Pesquisa Operacional]() | [IME-AL]() | NE |
-| IME-PEA | [Probabilidade e Estatística A]() | [IME-C1A]() | NC |
+| IME-PEA | [Probabilidade e Estatística A]() | [IME-C1A](#cálculo-1a) | NC |
 | INF-POO | [Programação Orientada a Objetos]() | [INF-IP]() | NC |
 | INF-PFC1 | [Projeto Final de Curso 1]() | []() | NE |
 | INF-PFC2 | [Projeto Final de Curso 2]() | []() | NE |
 | INF-RC | [Redes de Computadores 1]() | []() | NE |
 | INF-SD | [Sistemas Distribuídos]() | []() | NE |
 | INF-SO | [Sistemas Operacionais]() | []() | NE |
-| INF-SB | [Software Básico]() | [INF-ARQ]() | NE |
+| INF-SB | [Software Básico]() | [INF-ARQ](#arquitetura-de-computadores) | NE |
 | INF-TG | [Teoria dos Grafos]() | [INF-MD]() | NE |
 #
 
@@ -202,7 +202,7 @@ Visão geral dos computadores modernos. Evolução da arquitetura dos computador
 | <img src="./img/computer_systems_a_programmers_erspective_2ed.jpg" width="100"> | [Computer Systems: A Programmer’s Perspective 2ed](/livros/computer_systems_a_programmers_erspective_2ed.pdf) | BRYANT, R.; O’RALLARON, D. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/computer_systems_a_programmers_erspective_3ed.jpg" width="100"> | [Computer Systems: A Programmer’s Perspective 3ed](/livros/computer_systems_a_programmers_erspective_3ed.pdf) | BRYANT, R.; O’RALLARON, D. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 #
-## ARQUITETURA DE COMPUTADORES
+## BANCO DE DADOS
 Conceitos básicos de Banco de Dados. Modelo relacional. Linguagens para Banco de Dados: álgebra relacional, cálculo relacional e SQL. Modelo Entidade-Relacionamento e extensões. Mapeamento ER-relacional. Normalização.
 #
 | Livro | Nome da Obra | Autor | Idioma |
@@ -211,7 +211,7 @@ Conceitos básicos de Banco de Dados. Modelo relacional. Linguagens para Banco d
 | <img src="./img/sistema_de_banco_de_dados_5ed.jpg" width="100"> | [Sistema de Banco de Dados 5ed](https://drive.google.com/file/d/1Vmh5b8JzCtqae9y0A4KlQDqkTaem31Ov/view?usp=drive_link) | SILBERSCHATZ, A.; KORTH, H.F.; SUDARSHAN, S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/projeto_de_banco_de_dados_6ed.jpg" width="100"> | [Projeto de Banco de Dados 6ed](/livros/projeto_de_banco_de_dados_6ed.pdf) | HEUSER, C. A. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
-## ARQUITETURA DE COMPUTADORES
+## CÁLCULO 1A
 Números reais. Funções reais de uma variável real e suas inversas. Noções sobre cônicas. Limite e continuidade. Derivadas e aplicações. Polinômio de Taylor. Integrais. Técnicas de Integração. Integrais impróprias. Aplicações.
 #
 | Livro | Nome da Obra | Autor | Idioma |
@@ -222,3 +222,10 @@ Números reais. Funções reais de uma variável real e suas inversas. Noções 
 | <img src="./img/calculo_das_funoes_de_uma_variavel_v1_7ed.jpg" width="100"> | [Cálculo das funções de uma variável V1 7ed](/livros/calculo_das_funoes_de_uma_variavel_v1_7ed.pdf) | ÁVILA, G. S. S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/calculo_v1_5ed.jpg" width="100"> | [Cálculo V1 5 ed](/livros/calculo_v1_5ed.pdf) | STEWART, J.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/calculo_v1_7ed.png" width="100"> | [Cálculo V1 7 ed](/livros/calculo_v1_7ed.pdf) | STEWART, J.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## COMPUTAÇÃO E SOCIEDADE
+História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares. Importância e desafios da computação no Brasil e no mundo. Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão. Leis e normas relacionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação. Ética na Computação. Empresas de tecnologia da informação. Incubadoras de empresas
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/histooria_da_computacao_o_caminho_do_pensamento_e_da_tecnologia.png" width="100"> | [História da computação: O Caminho do Pensamento e da Tecnologia](/livros/histooria_da_computacao_o_caminho_do_pensamento_e_da_tecnologia.pdf) | FONSECA FILHO, C. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
