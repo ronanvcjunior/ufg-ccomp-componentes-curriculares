@@ -18,7 +18,7 @@
 | INF-CS | [Computação e Sociedade](#computação-e-sociedade) | []() | NC |
 | INF-CG | [Computação Gráfica]() | [IME-GA](); [IME-AL](#álgebra-linear) | NE  |
 | INF-CP | [Computação Paralela]() | []() | NE |
-| INF-ES | [Engenharia de Software]() | []() | NC |
+| INF-ES | [Engenharia de Software](#engenharia-de-software) | []() | NC |
 | IME-EDO | [Equações Diferenciais Ordinárias]() | [IME-C2A]() | NE |
 | IF-FE1 | [Física Experimental I]() | [IF-F1]() (co) | NE |
 | IF-F1 | [Física I]() | [IME-C1A](#cálculo-1a) (co) | NE |
@@ -224,8 +224,20 @@ Números reais. Funções reais de uma variável real e suas inversas. Noções 
 | <img src="./img/calculo_v1_7ed.png" width="100"> | [Cálculo V1 7 ed](/livros/calculo_v1_7ed.pdf) | STEWART, J.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## COMPUTAÇÃO E SOCIEDADE
-História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares. Importância e desafios da computação no Brasil e no mundo. Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão. Leis e normas relacionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação. Ética na Computação. Empresas de tecnologia da informação. Incubadoras de empresas
+História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares. Importância e desafios da computação no Brasil e no mundo. Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão. Leis e normas relacionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação. Ética na Computação. Empresas de tecnologia da informação. Incubadoras de empresas.
 #
 | Livro | Nome da Obra | Autor | Idioma |
 |------------|------------|------------|------------|
 | <img src="./img/histooria_da_computacao_o_caminho_do_pensamento_e_da_tecnologia.png" width="100"> | [História da computação: O Caminho do Pensamento e da Tecnologia](/livros/histooria_da_computacao_o_caminho_do_pensamento_e_da_tecnologia.pdf) | FONSECA FILHO, C. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## ENGENHARIA DE SOFTWARE
+Requisitos de software. Projeto (design) de software. Construção de software. Teste de software. Manutenção de software. Gerência de configuração de software. Gerência de projeto de software. Processo de engenharia de software. Modelos e métodos de engenharia de software. Qualidade de software. Prática profissional de engenharia de software. Economia para engenharia de software. Fundamentos de engenharia.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/engenharia_de_software_uma_abordagem_profissional_8ed.jpg" width="100"> | [Engenharia De Software Uma Abordagem Profissional 8ed](/livros/engenharia_de_software_uma_abordagem_profissional_8ed.pdf) | PRESSMAN, R.; MAXIM, B.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/engenharia_de_software_uma_abordagem_profissional_9ed.jpg" width="100"> | [Engenharia De Software Uma Abordagem Profissional 9ed](/livros/engenharia_de_software_uma_abordagem_profissional_9ed.pdf) | PRESSMAN, R.; MAXIM, B.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/engenharia_de_software_10ed.jpg" width="100"> | [Engenharia De Software 10ed](https://drive.google.com/file/d/10O-TZQNQpPRZE4zqR-Ptms57IjjTaidj/view?usp=drive_link) | SOMMERVILLE, I. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/engenharia_de_software_conceitos_e_praticas.jpg" width="100"> | [Engenharia de software: conceitos e práticas](/livros/) | WAZLAWICK, R. S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/pmbok_7ed.png" width="100"> | [Guia PMBOK 7ed](/livros/pmbok_7ed.pdf) | PMI | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/pmbok_8ed.jpg" width="100"> | [PMBOK Guide 8ed](/livros/pmbok_8ed.pdf) | PMI | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) 
