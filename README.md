@@ -24,17 +24,17 @@
 | IF-F1 | [Física I]() | [IME-C1A](#cálculo-1a) (co) | NE |
 | INF-FMC | [Fundamentos de Matemática para Computação](#fundamentos-de-matemática-para-computação) | []() | NC |
 | IME-GA | [Geometria Analítica]() | []() | NE |
-| INF-IA | [Inteligência Artificial]() | [IME-PEA]() | NE |
+| INF-IA | [Inteligência Artificial]() | [IME-PEA](#probabilidade-e-estatística-a) | NE |
 | INF-IHC | [Interação Humano-Computador](#interação-humano-computador) | []() | NC |
 | INF-ICCC | [Introdução à Computabilidade e à Complexidade Computacional]() | [INF-LFA](); [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
 | INF-IP | [Introdução à Programação](#introdução-à-programação) | []() | NC |
 | INF-LPP | [Linguagens e Paradigmas de Programação](#linguagens-e-paradigmas-de-programação) | []() | NC |
 | INF-LFA | [Linguagens Formais e Autômatos]() | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
-| INF-LM | [Lógica Matemática]() | [INF-MD]() | NC |
+| INF-LM | [Lógica Matemática](#lógica-matemática) | [INF-MD]() | NC |
 | INF-MD | [Matemática Discreta]() | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
 | INF-MPC | [Metodologia de Pesquisa em Computação]() | []() | NE |
 | INF-PO | [Pesquisa Operacional]() | [IME-AL](#álgebra-linear) | NE |
-| IME-PEA | [Probabilidade e Estatística A]() | [IME-C1A](#cálculo-1a) | NC |
+| IME-PEA | [Probabilidade e Estatística A](#probabilidade-e-estatística-a) | [IME-C1A](#cálculo-1a) | NC |
 | INF-POO | [Programação Orientada a Objetos]() | [INF-IP](#introdução-à-programação) | NC |
 | INF-PFC1 | [Projeto Final de Curso 1]() | []() | NE |
 | INF-PFC2 | [Projeto Final de Curso 2]() | []() | NE |
@@ -97,7 +97,7 @@
 | INF-ITT | [Introdução à Teoria dos Tipos]() | []() | NE |
 | INF-ISI | [Introdução aos Sistemas de Informação]() | []() | NE |
 | INF-JD | [Jogos Digitais]() | []() | NE |
-| INF-LC | [Lógica em Computação]() | [INF-LM](); [INF-PF]() | NE |
+| INF-LC | [Lógica em Computação]() | [INF-LM](#lógica-matemática); [INF-PF]() | NE |
 | INF-MES | [Mercado e Economia de Software]() | []() | NE |
 | INF-MH | [Meta-heurísticas]() | []() | NE |
 | INF-MEES | [Metodologia e Experimentação em Engenharia de Software]() | []() | NE |
@@ -287,3 +287,12 @@ Lógica Proposicional e de Predicados. Sistemas Dedutivos. Relações de Consequ
 |------------|------------|------------|------------|
 | <img src="./img/logica_para_ciencia_da_computacao_3ed.jpg" width="100"> | [Lógica para Ciência da Computação 3ed](/livros/logica_para_ciencia_da_computacao_3ed.pdf) | SOUZA, J. N. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/logica_para_computacao.webp" width="100"> | [Lógica para Computação](/livros/logica_para_computacao.pdf) | SILVA, F. C.; FINGER, M.; MELO, A. C. V. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## PROBABILIDADE E ESTATÍSTICA A
+Estatística descritiva. Noções sobre amostragem. Introdução à teoria de conjuntos. Introdução à teoria de probabilidade: espaço amostral, eventos, frequência relativa, fundamentos de probabilidade, probabilidade condicional, eventos independentes e teorema de Bayes. Variáveis aleatórias: conceitos básicos, esperança e variância. Distribuições discretas de probabilidade: uniforme, binomial e Poisson. Distribuições contínuas de probabilidade: uniforme, exponencial, normal e t-Student. Estimação pontual e intervalar para uma população: média e proporção. Teste de hipóteses para uma população: média e proporção. Correlação linear e regressão linear simples.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/probabilidade_e_estatistica_para_engenharia_e_ciencias_9ed.webp" width="100"> | [Probabilidade e Estatística para Engenharia e Ciências 9ed](https://drive.google.com/file/d/1OdNqajscyaZvn2an1SLtxLA4HPLOQutB/view?usp=drive_link) | WALPOLE, R. E.; MYERS, R. H.; MYERS, S. L.; YE, K. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/nocoes_de_probabilidade_e_estatistica_7ed.jpg" width="100"> | [Noções de Probabilidade e Estatística 7ed](/livros/nocoes_de_probabilidade_e_estatistica_7ed.pdf) | MAGALHÃES, M. N. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/probabilidade_aplicaoes_a_estatistica_2ed.jpg" width="100"> | [Probabilidade: Aplicações àEstatística 2ed](/livros/probabilidade_aplicaoes_a_estatistica_2ed.pdf) | MEYER, P. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
