@@ -210,3 +210,15 @@ Conceitos básicos de Banco de Dados. Modelo relacional. Linguagens para Banco d
 | <img src="./img/sistemas_de_banco_de_dados_6ed.jpg" width="100"> | [Sistemas de Banco de Dados 6ed](/livros/sistemas_de_banco_de_dados_6ed.pdf) | ELMASRI, R.; NAVATHE, S. B.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/sistema_de_banco_de_dados_5ed.jpg" width="100"> | [Sistema de Banco de Dados 5ed](https://drive.google.com/file/d/1Vmh5b8JzCtqae9y0A4KlQDqkTaem31Ov/view?usp=drive_link) | SILBERSCHATZ, A.; KORTH, H.F.; SUDARSHAN, S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/projeto_de_banco_de_dados_6ed.jpg" width="100"> | [Projeto de Banco de Dados 6ed](/livros/projeto_de_banco_de_dados_6ed.pdf) | HEUSER, C. A. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## ARQUITETURA DE COMPUTADORES
+Números reais. Funções reais de uma variável real e suas inversas. Noções sobre cônicas. Limite e continuidade. Derivadas e aplicações. Polinômio de Taylor. Integrais. Técnicas de Integração. Integrais impróprias. Aplicações.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/o_calculo_com_geometria_analitica_v1_3ed.png" width="100"> | [O cálculo com geometria analítica V1 3ed](/livros/o_calculo_com_geometria_analitica_v1_3ed.pdf) | LEITHOLD, L.n| ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/um_curso_de_calculo_v1_5ed.jpg" width="100"> | [Um curso de cálculo V1 5ed](/livros/um_curso_de_calculo_v1_5ed.pdf) | GUIDORIZZI, H. L | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/um_curso_de_calculo_v1_6ed.jpg" width="100"> | [Um curso de cálculo V1 6ed](/livros/um_curso_de_calculo_v1_6ed.pdf) | GUIDORIZZI, H. L | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/calculo_das_funoes_de_uma_variavel_v1_7ed.jpg" width="100"> | [Cálculo das funções de uma variável V1 7ed](/livros/calculo_das_funoes_de_uma_variavel_v1_7ed.pdf) | ÁVILA, G. S. S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/calculo_v1_5ed.jpg" width="100"> | [Cálculo V1 5 ed](/livros/calculo_v1_5ed.pdf) | STEWART, J.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/calculo_v1_7ed.png" width="100"> | [Cálculo V1 7 ed](/livros/calculo_v1_7ed.pdf) | STEWART, J.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
