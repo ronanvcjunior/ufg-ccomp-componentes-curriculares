@@ -25,7 +25,7 @@
 | INF-FMC | [Fundamentos de Matemática para Computação](#fundamentos-de-matemática-para-computação) | []() | NC |
 | IME-GA | [Geometria Analítica]() | []() | NE |
 | INF-IA | [Inteligência Artificial]() | [IME-PEA]() | NE |
-| INF-IHC | [Interação Humano-Computador]() | []() | NC |
+| INF-IHC | [Interação Humano-Computador](#interação-humano-computador) | []() | NC |
 | INF-ICCC | [Introdução à Computabilidade e à Complexidade Computacional]() | [INF-LFA](); [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
 | INF-IP | [Introdução à Programação]() | []() | NC |
 | INF-LPP | [Linguagens e Paradigmas de Programação]() | []() | NC |
@@ -33,7 +33,7 @@
 | INF-LM | [Lógica Matemática]() | [INF-MD]() | NC |
 | INF-MD | [Matemática Discreta]() | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
 | INF-MPC | [Metodologia de Pesquisa em Computação]() | []() | NE |
-| INF-PO | [Pesquisa Operacional]() | [IME-AL]() | NE |
+| INF-PO | [Pesquisa Operacional]() | [IME-AL](#álgebra-linear) | NE |
 | IME-PEA | [Probabilidade e Estatística A]() | [IME-C1A](#cálculo-1a) | NC |
 | INF-POO | [Programação Orientada a Objetos]() | [INF-IP]() | NC |
 | INF-PFC1 | [Projeto Final de Curso 1]() | []() | NE |
@@ -49,7 +49,7 @@
 
 | Sigla | Nome da Disciplina | Requisitos | Núcleo |
 |------------|------------|------------|------------|
-| INF-AA | [Algoritmos de Aproximação]() | [INF-APA]() | NE |
+| INF-AA | [Algoritmos de Aproximação]() | [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
 | INF-AG | [Algoritmos em Grafos]() | [INF-TG]() | NE |
 | INF-AMC | [Aplicações de Microcontroladores]() | [INF-MICRO]() | NE |
 | INF-AM | [Aprendizado de Máquina]() | []() | NE |
@@ -90,7 +90,7 @@
 | INF-ID | [Integração de Dados]() | []() | NE |
 | INF-IOT | [Internet das Coisas]() | []() | NE |
 | INF-IAE | [Introdução à Administração de Empresas]() | []() | NE |
-| IF-ICQ | [Introdução à Computação Quântica]() | [IME-AL]() | NE |
+| IF-ICQ | [Introdução à Computação Quântica]() | [IME-AL](#álgebra-linear) | NE |
 | FL-ILBS | [Introdução à Língua Brasileira de Sinais]() | []() | NE |
 | INF-IRM | [Introdução à Robótica Móvel]() | []() | NE |
 | INF-ITP | [Introdução à Teoria das Provas]() | []() | NE |
@@ -142,7 +142,7 @@
 | INF-TLSC | [Tópicos em Lógica e Semântica de Computação]() | [INF-PF]() | NE |
 | INF-TSC | [Tópicos em Sistemas de Computação]() | []() | NE |
 | INF-TTS | [Tópicos em Teste de Software]() | []() | NE |
-| INF-TECC | [Tópicos Especiais em Complexidade da Computação]() | [INF-APA](); [INF-ICCC]() | NE |
+| INF-TECC | [Tópicos Especiais em Complexidade da Computação]() | [INF-APA](#análise-e-projeto-de-algoritmos); [INF-ICCC]() | NE |
 | INF-VFP  | [Verificação Formal de Programas]() | [INF-LC]() | NE |
 | INF-VC | [Visão Computacional]() | [INF-PDI]() | NE |
 | INF-VR | [Visão Robótica]() | []() | NE |
@@ -250,3 +250,13 @@ Noções de lógica, Introdução a demonstrações, Indução matemática, Recu
 | <img src="./img/fundamentos_matematicos_para_a_ciencia_da_computacao_7ed.jpg" width="100"> | [Fundamentos Matemáticos para a Ciência da Computação 7ed](/livros/fundamentos_matematicos_para_a_ciencia_da_computacao_7ed.pdf) | GERSTING, J. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/matematica_discreta_uma_introducao_3ed.jpg" width="100"> | [Matemática Discreta, Uma introdução 3ed](https://drive.google.com/file/d/1Okn6ZtTOfLGS3smhZbs5eYV73DfQpVhx/view?usp=drive_link) | SCHEINERMAN, E. R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/discrete_and_combinatorial_mathematics_an_applied_introduction_5ed.jpg" width="100"> | [Discrete and Combinatorial Mathematics - An Applied Introduction 5ed](/livros/discrete_and_combinatorial_mathematics_an_applied_introduction_5ed.pdf) | GRIMALDI, R. P. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+#
+## INTERAÇÃO HUMANO-COMPUTADOR
+Aspectos gerais sobre interação humano-computador. Características humanísticas e biológicas, envolvendo questões sobre genealogia, gênero, aspectos étnicos, raciais e culturais, direitos e aspectos políticos, deficiências, limitações e capacidades, dentre outros. Ciclo da interação e principais problemas. Metas de usabilidade e experiência do usuário. Fatores humanos em software interativo: teoria, princípios e regras básicas. Modelos conceituais e metáforas. Estilos de interação. Elementos de interação
+(menus, formulários, manipulação direta e outros). Voz, linguagem natural, sons, páginas Web. Padrões para interface. Localização e internacionalização. Princípios de projeto de interfaces humano-computador. Métodos de projeto de interação. Projeto visual (cores, ícones, fontes e outros). Tempo de resposta e retroalimentação. Dispositivos de interação. Métodos de avaliação de interfaces: avaliação heurística, abordagens para testes realizados com apoio de usuários, técnicas de testes para páginas Web, entre outros. Visão geral de ferramentas de desenvolvimento de interfaces humano-computador.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/human-computer_interaction_3ed.jpg" width="100"> | [Human-Computer Interaction 3ed](/livros/human-computer_interaction_3ed.pdf) | DIX, Alan; FINLAY, J. E.; ABOWD, G. D.; BEALE, R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/designing_interfaces_patterns_for_effective_interaction_design_2ed.jpg" width="100"> | [Designing Interfaces: Patterns for Effective Interaction Design 2ed](/livros/designing_interfaces_patterns_for_effective_interaction_design_2ed.pdf) | TIDWELL, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/designing_interfaces_patterns_for_effective_interaction_design_3ed.jpg" width="100"> | [Designing Interfaces: Patterns for Effective Interaction Design 3ed](/livros/designing_interfaces_patterns_for_effective_interaction_design_3ed.pdf) | TIDWELL, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
