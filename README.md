@@ -35,7 +35,7 @@
 | INF-MPC | [Metodologia de Pesquisa em Computação]() | []() | NE |
 | INF-PO | [Pesquisa Operacional]() | [IME-AL](#álgebra-linear) | NE |
 | IME-PEA | [Probabilidade e Estatística A](#probabilidade-e-estatística-a) | [IME-C1A](#cálculo-1a) | NC |
-| INF-POO | [Programação Orientada a Objetos]() | [INF-IP](#introdução-à-programação) | NC |
+| INF-POO | [Programação Orientada a Objetos](#programação-orientada-a-objetos) | [INF-IP](#introdução-à-programação) | NC |
 | INF-PFC1 | [Projeto Final de Curso 1]() | []() | NE |
 | INF-PFC2 | [Projeto Final de Curso 2]() | []() | NE |
 | INF-RC | [Redes de Computadores 1]() | []() | NE |
@@ -113,7 +113,7 @@
 | INF-PC | [Programação Concorrente]() | []() | NE |
 | INF-PF | [Programação Funcional]() | [INF-LC]() | NE |
 | INF-PL | [Programação Linear]() | []() | NE |
-| INF-PS  | [Projeto de Software]() | [INF-POO]() | NE |
+| INF-PS  | [Projeto de Software]() | [INF-POO](#programação-orientada-a-objetos) | NE |
 | INF-PI1 | [Projeto Integrador 1]() | []() | NE |
 | INF-PI2  | [Projeto Integrador 2]() | []() | NE |
 | INF-RI  | [Recuperação de Informação]() | []() | NE |
@@ -296,3 +296,12 @@ Estatística descritiva. Noções sobre amostragem. Introdução à teoria de co
 | <img src="./img/probabilidade_e_estatistica_para_engenharia_e_ciencias_9ed.webp" width="100"> | [Probabilidade e Estatística para Engenharia e Ciências 9ed](https://drive.google.com/file/d/1OdNqajscyaZvn2an1SLtxLA4HPLOQutB/view?usp=drive_link) | WALPOLE, R. E.; MYERS, R. H.; MYERS, S. L.; YE, K. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/nocoes_de_probabilidade_e_estatistica_7ed.jpg" width="100"> | [Noções de Probabilidade e Estatística 7ed](/livros/nocoes_de_probabilidade_e_estatistica_7ed.pdf) | MAGALHÃES, M. N. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/probabilidade_aplicaoes_a_estatistica_2ed.jpg" width="100"> | [Probabilidade: Aplicações àEstatística 2ed](/livros/probabilidade_aplicaoes_a_estatistica_2ed.pdf) | MEYER, P. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## PROGRAMAÇÃO ORIENTADA A OBJETOS
+Abstração e tipos abstratos de dados. Classes, métodos, encapsulamento, interface. Mensagens, instâncias e inicialização. Herança e composição. Polimorfismo. Uso de uma linguagem orientada a objetos. Noções de UML. Noções de padrões de projeto orientado a objetos.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/pensando_em_Java_3ed.jpg" width="100"> | [Pensando em Java 3ed](https://ww2.inf.ufg.br/~marceloakira/intro-prog/docs/tij/tij2pej/PEJ3.htm) | ECKEL, B. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/thinking_in_java_4ed.jpg" width="100"> | [Thinking in Java 4ed](./livros/thinking_in_java_4ed.pdf) | ECKEL, B. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/java_como_programar_10ed.webp" width="100"> | [Java como programar 10ed](./livros/java_como_programar_10ed.pdf) | DEITEL, P. J; DEITEL, H. M. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
