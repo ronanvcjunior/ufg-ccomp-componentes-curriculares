@@ -16,7 +16,7 @@
 | EMC-CD | [Circuitos Digitais](#circuitos-digitais) | []() | NE |
 | INF-COMP | [Compiladores](#compiladores) | [INF-LFA]() | NE |
 | INF-CS | [Computação e Sociedade](#computação-e-sociedade) | []() | NC |
-| INF-CG | [Computação Gráfica]() | [IME-GA](); [IME-AL](#álgebra-linear) | NE  |
+| INF-CG | [Computação Gráfica](#computação-gráfica) | [IME-GA](); [IME-AL](#álgebra-linear) | NE  |
 | INF-CP | [Computação Paralela]() | []() | NE |
 | INF-ES | [Engenharia de Software](#engenharia-de-software) | []() | NC |
 | IME-EDO | [Equações Diferenciais Ordinárias]() | [IME-C2A](#cálculo-2a) | NE |
@@ -251,7 +251,7 @@ Resolução de sistemas lineares, métodos diretos e métodos iterativos. Integr
 | Livro | Nome da Obra | Autor | Idioma |
 |------------|------------|------------|------------|
 | <img src="./img/sistemas_digitais_principios_e_aplicacoes_11ed.jpg" width="100"> | [Sistemas Digitais – Princípios e Aplicações 11ed](/livros/sistemas_digitais_principios_e_aplicacoes_11ed.pdf) | TOCCI, R. J.; WIDMER, N. S.; MOSS, G. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
-| <img src="./img/logic_and_computer_design_fundamentals_5ed.jpg" width="100"> | [Logic & Computer Design Fundamentals 5ed](/livros/logic_and_computer_design_fundamentals_5ed.pdf) | MANO, M.; KIME, C. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/logic_and_computer_design_fundamentals_5ed.jpg" width="100"> | [Logic & Computer Design Fundamentals 5ed](/livros/logic_and_computer_design_fundamentals_5ed.pdf) | MANO, M.; KIME, C. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 #
 ## COMPILADORES
 A estrutura de um compilador. Análises léxica e sintática. Definições dirigidas por sintaxe e análise semântica. Organização da tabela de símbolos. Representação intermediária do programa-fonte. Geração do código-objeto da compilação. Introdução à otimização do código-objeto. Implementação de um compilador.
@@ -259,7 +259,7 @@ A estrutura de um compilador. Análises léxica e sintática. Definições dirig
 | Livro | Nome da Obra | Autor | Idioma |
 |------------|------------|------------|------------|
 | <img src="./img/compiladores_principios_tecnicas_e_ferramantas_2ed.jpg" width="100"> | [Compiladores - Princípios, técnicas e ferramentas 2ed](/livros/compiladores_principios_tecnicas_e_ferramantas_2ed.pdf) | AHO, A. V; LAM, M. S.; SETHI, R.; ULLMAN, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
-| <img src="./img/modern_compiler_implementation_in_c_basic_techiniques.jpg" width="100"> | [Modern Compiler Implementation in C - Basic Techiniques](/livros/modern_compiler_implementation_in_c_basic_techiniques.pdf) | APPEL, A. W. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/modern_compiler_implementation_in_c_basic_techiniques.jpg" width="100"> | [Modern Compiler Implementation in C - Basic Techiniques](/livros/modern_compiler_implementation_in_c_basic_techiniques.pdf) | APPEL, A. W. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 #
 ## COMPUTAÇÃO E SOCIEDADE
 História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares. Importância e desafios da computação no Brasil e no mundo. Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão. Leis e normas relacionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação. Ética na Computação. Empresas de tecnologia da informação. Incubadoras de empresas.
@@ -267,6 +267,13 @@ História da computação. Estudo e análise de casos de aplicação de computad
 | Livro | Nome da Obra | Autor | Idioma |
 |------------|------------|------------|------------|
 | <img src="./img/histooria_da_computacao_o_caminho_do_pensamento_e_da_tecnologia.png" width="100"> | [História da computação: O Caminho do Pensamento e da Tecnologia](/livros/histooria_da_computacao_o_caminho_do_pensamento_e_da_tecnologia.pdf) | FONSECA FILHO, C. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## COMPUTAÇÃO GRÁFICA
+Origem e objetivos da Computação Gráfica. Dispositivos Vetoriais x Matriciais. Dispositivos de entrada e saída. Sistemas e equipamentos gráficos. Algoritmos para conversão matricial e preenchimento de primitivas gráficas. Transformações geométricas bi-dimensionais e tridimensionais. Transformações de projeção paralela e perspectiva. Recorte e seleção bi-dimensional. Curvas e Superfícies. Representação e Modelagem; Modelos de cor. Visualização tridimensional: iluminação, eliminação de linhas superfícies escondidas, modelos de tonalização (“shading”). Aplicação de texturas. Animação. Noções de processamento digital de imagens.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/computer_graphics_principles_and_practice.jpg" width="100"> | [Computer Graphics: Principles and Practices](/livros/computer_graphics_principles_and_practice.pdf) | FOLEY, J. D. at al. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 #
 ## ENGENHARIA DE SOFTWARE
 Requisitos de software. Projeto (design) de software. Construção de software. Teste de software. Manutenção de software. Gerência de configuração de software. Gerência de projeto de software. Processo de engenharia de software. Modelos e métodos de engenharia de software. Qualidade de software. Prática profissional de engenharia de software. Economia para engenharia de software. Fundamentos de engenharia.
