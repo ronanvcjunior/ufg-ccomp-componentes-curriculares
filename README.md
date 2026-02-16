@@ -14,7 +14,7 @@
 | IME-C2A | [Cálculo 2A](#cálculo-2a) | [IME-C1A](#cálculo-1a) (co) | NE |
 | IME-CN | [Cálculo Numérico](#cálculo-numérico) | [IME-EDO]() | NE |
 | EMC-CD | [Circuitos Digitais](#circuitos-digitais) | []() | NE |
-| INF-COMP | [Compiladores]() | [INF-LFA]() | NE |
+| INF-COMP | [Compiladores](#compiladores) | [INF-LFA]() | NE |
 | INF-CS | [Computação e Sociedade](#computação-e-sociedade) | []() | NC |
 | INF-CG | [Computação Gráfica]() | [IME-GA](); [IME-AL](#álgebra-linear) | NE  |
 | INF-CP | [Computação Paralela]() | []() | NE |
@@ -252,6 +252,14 @@ Resolução de sistemas lineares, métodos diretos e métodos iterativos. Integr
 |------------|------------|------------|------------|
 | <img src="./img/sistemas_digitais_principios_e_aplicacoes_11ed.jpg" width="100"> | [Sistemas Digitais – Princípios e Aplicações 11ed](/livros/sistemas_digitais_principios_e_aplicacoes_11ed.pdf) | TOCCI, R. J.; WIDMER, N. S.; MOSS, G. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/logic_and_computer_design_fundamentals_5ed.jpg" width="100"> | [Logic & Computer Design Fundamentals 5ed](/livros/logic_and_computer_design_fundamentals_5ed.pdf) | MANO, M.; KIME, C. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## COMPILADORES
+A estrutura de um compilador. Análises léxica e sintática. Definições dirigidas por sintaxe e análise semântica. Organização da tabela de símbolos. Representação intermediária do programa-fonte. Geração do código-objeto da compilação. Introdução à otimização do código-objeto. Implementação de um compilador.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/compiladores_principios_tecnicas_e_ferramantas_2ed.jpg" width="100"> | [Compiladores - Princípios, técnicas e ferramentas 2ed](/livros/compiladores_principios_tecnicas_e_ferramantas_2ed.pdf) | AHO, A. V; LAM, M. S.; SETHI, R.; ULLMAN, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/modern_compiler_implementation_in_c_basic_techiniques.jpg" width="100"> | [Modern Compiler Implementation in C - Basic Techiniques](/livros/modern_compiler_implementation_in_c_basic_techiniques.pdf) | APPEL, A. W. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## COMPUTAÇÃO E SOCIEDADE
 História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares. Importância e desafios da computação no Brasil e no mundo. Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão. Leis e normas relacionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação. Ética na Computação. Empresas de tecnologia da informação. Incubadoras de empresas.
