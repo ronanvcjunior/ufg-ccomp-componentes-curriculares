@@ -17,7 +17,7 @@
 | INF-COMP | [Compiladores](#compiladores) | [INF-LFA]() | NE |
 | INF-CS | [Computação e Sociedade](#computação-e-sociedade) | []() | NC |
 | INF-CG | [Computação Gráfica](#computação-gráfica) | [IME-GA](); [IME-AL](#álgebra-linear) | NE  |
-| INF-CP | [Computação Paralela]() | []() | NE |
+| INF-CP | [Computação Paralela](#computação-paralela) | []() | NE |
 | INF-ES | [Engenharia de Software](#engenharia-de-software) | []() | NC |
 | IME-EDO | [Equações Diferenciais Ordinárias]() | [IME-C2A](#cálculo-2a) | NE |
 | IF-FE1 | [Física Experimental I]() | [IF-F1]() (co) | NE |
@@ -61,7 +61,7 @@
 | INF-ADSC | [Avaliação de Desempenho de Sistemas Computacionais]() | []() | NE |
 | INF-BDD | [Banco de Dados Distribuídos]() | []() | NE |
 | INF-CC | [Classes de Grafos]() | [INF-TG]() | NE |
-| INF-CPAR | [Complexidade Parametrizad]() | [INF-ICCC]() | NE |
+| INF-CPAR | [Complexidade Parametrizada]() | [INF-ICCC]() | NE |
 | INF-CAD | [Computação de Alto Desempenho]() | []() | NE |
 | INF-CE | [Computação Evolucionária]() | []() | NE |
 | INF-CMU | [Computação Móvel e Ubíqua]() | []() | NE |
@@ -274,6 +274,15 @@ Origem e objetivos da Computação Gráfica. Dispositivos Vetoriais x Matriciais
 | Livro | Nome da Obra | Autor | Idioma |
 |------------|------------|------------|------------|
 | <img src="./img/computer_graphics_principles_and_practice.jpg" width="100"> | [Computer Graphics: Principles and Practices](/livros/computer_graphics_principles_and_practice.pdf) | FOLEY, J. D. at al. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+#
+## COMPUTAÇÃO PARALELA
+Fundamentos da computação paralela. Classificação de computadores. Métricas de avaliação de desempenho de programas paralelos. Projeto e análise de algoritmos paralelos. Programação paralela com memória compartilhada. Programação paralela com memória distribuída.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/introduction_to_parallel_computing_2ed.jpg" width="100"> | [An Introduction to Parallel Computing, Design and Analysis of Algorithms 2ed](/livros/introduction_to_parallel_computing_2ed.pdf) | GRAMA, A.; KUMAR, V.; GUPTA, A.; KARYPIS, G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/an_introduction_to_parallel_programming.jpg" width="100"> | [An Introduction to Parallel Programming](/livros/an_introduction_to_parallel_programming.pdf) | PACHECO, P. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/programming_massively_parallel_processors_a_hands_on_approach_2ed.jpg" width="100"> | [Programming Massively Parallel Processors: A Hands On Approach 2ed](/livros/programming_massively_parallel_processors_a_hands_on_approach_2ed.pdf) | KIRK, D.; HWU, W. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 #
 ## ENGENHARIA DE SOFTWARE
 Requisitos de software. Projeto (design) de software. Construção de software. Teste de software. Manutenção de software. Gerência de configuração de software. Gerência de projeto de software. Processo de engenharia de software. Modelos e métodos de engenharia de software. Qualidade de software. Prática profissional de engenharia de software. Economia para engenharia de software. Fundamentos de engenharia.
