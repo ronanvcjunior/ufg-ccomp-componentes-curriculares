@@ -201,3 +201,12 @@ Visão geral dos computadores modernos. Evolução da arquitetura dos computador
 | <img src="./img/arquitetura_e_organizacao_de_computadores_10ed.jpg" width="100"> | [Arquitetura e Organização de Computadores 10ed](/livros/arquitetura_e_organizaao_de_computadores_10ed.pdf) | STALLINGS, W. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/computer_systems_a_programmers_erspective_2ed.jpg" width="100"> | [Computer Systems: A Programmer’s Perspective 2ed](/livros/computer_systems_a_programmers_erspective_2ed.pdf) | BRYANT, R.; O’RALLARON, D. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/computer_systems_a_programmers_erspective_3ed.jpg" width="100"> | [Computer Systems: A Programmer’s Perspective 3ed](/livros/computer_systems_a_programmers_erspective_3ed.pdf) | BRYANT, R.; O’RALLARON, D. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+#
+## ARQUITETURA DE COMPUTADORES
+Conceitos básicos de Banco de Dados. Modelo relacional. Linguagens para Banco de Dados: álgebra relacional, cálculo relacional e SQL. Modelo Entidade-Relacionamento e extensões. Mapeamento ER-relacional. Normalização.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/sistemas_de_banco_de_dados_6ed.jpg" width="100"> | [Sistemas de Banco de Dados 6ed](/livros/sistemas_de_banco_de_dados_6ed.pdf) | ELMASRI, R.; NAVATHE, S. B.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/sistema_de_banco_de_dados_5ed.jpg" width="100"> | [Sistema de Banco de Dados 5ed](https://drive.google.com/file/d/1Vmh5b8JzCtqae9y0A4KlQDqkTaem31Ov/view?usp=drive_link) | SILBERSCHATZ, A.; KORTH, H.F.; SUDARSHAN, S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/projeto_de_banco_de_dados_6ed.jpg" width="100"> | [Projeto de Banco de Dados 6ed](/livros/projeto_de_banco_de_dados_6ed.pdf) | HEUSER, C. A. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
