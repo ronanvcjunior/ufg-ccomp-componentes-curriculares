@@ -5,7 +5,7 @@
 | Sigla | Nome da Disciplina | Requisitos | Núcleo |
 |------------|------------|------------|------------|
 | IME-AL | [Álgebra Linear](#álgebra-linear) | []() | NC |
-| INF-AED1 | [Algoritmos e Estruturas de Dados 1](#algoritmos-e-estruturas-de-dados-1) | [INF-IP]() | NC |
+| INF-AED1 | [Algoritmos e Estruturas de Dados 1](#algoritmos-e-estruturas-de-dados-1) | [INF-IP](#introdução-à-programação) | NC |
 | INF-AED2 | [Algoritmos e Estruturas de Dados 2](#algoritmos-e-estruturas-de-dados-2) | [INF-AED1](#algoritmos-e-estruturas-de-dados-1) | NC |
 | INF-APA | [Análise e Projeto de Algoritmos](#análise-e-projeto-de-algoritmos) | [INF-AED2](#algoritmos-e-estruturas-de-dados-2) | NC |
 | INF-ARQ | [Arquitetura de Computadores](#arquitetura-de-computadores) | []() | NC  |
@@ -27,7 +27,7 @@
 | INF-IA | [Inteligência Artificial]() | [IME-PEA]() | NE |
 | INF-IHC | [Interação Humano-Computador](#interação-humano-computador) | []() | NC |
 | INF-ICCC | [Introdução à Computabilidade e à Complexidade Computacional]() | [INF-LFA](); [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
-| INF-IP | [Introdução à Programação]() | []() | NC |
+| INF-IP | [Introdução à Programação](#introdução-à-programação) | []() | NC |
 | INF-LPP | [Linguagens e Paradigmas de Programação]() | []() | NC |
 | INF-LFA | [Linguagens Formais e Autômatos]() | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
 | INF-LM | [Lógica Matemática]() | [INF-MD]() | NC |
@@ -35,7 +35,7 @@
 | INF-MPC | [Metodologia de Pesquisa em Computação]() | []() | NE |
 | INF-PO | [Pesquisa Operacional]() | [IME-AL](#álgebra-linear) | NE |
 | IME-PEA | [Probabilidade e Estatística A]() | [IME-C1A](#cálculo-1a) | NC |
-| INF-POO | [Programação Orientada a Objetos]() | [INF-IP]() | NC |
+| INF-POO | [Programação Orientada a Objetos]() | [INF-IP](#introdução-à-programação) | NC |
 | INF-PFC1 | [Projeto Final de Curso 1]() | []() | NE |
 | INF-PFC2 | [Projeto Final de Curso 2]() | []() | NE |
 | INF-RC | [Redes de Computadores 1]() | []() | NE |
@@ -240,7 +240,7 @@ Requisitos de software. Projeto (design) de software. Construção de software. 
 | <img src="./img/engenharia_de_software_10ed.jpg" width="100"> | [Engenharia De Software 10ed](https://drive.google.com/file/d/10O-TZQNQpPRZE4zqR-Ptms57IjjTaidj/view?usp=drive_link) | SOMMERVILLE, I. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/engenharia_de_software_conceitos_e_praticas.jpg" width="100"> | [Engenharia de software: conceitos e práticas](/livros/) | WAZLAWICK, R. S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/pmbok_7ed.png" width="100"> | [Guia PMBOK 7ed](/livros/pmbok_7ed.pdf) | PMI | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
-| <img src="./img/pmbok_8ed.jpg" width="100"> | [PMBOK Guide 8ed](/livros/pmbok_8ed.pdf) | PMI | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) 
+| <img src="./img/pmbok_8ed.jpg" width="100"> | [PMBOK Guide 8ed](/livros/pmbok_8ed.pdf) | PMI | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 #
 ## FUNDAMENTOS DE MATEMÁTICA PARA COMPUTAÇÃO
 Noções de lógica, Introdução a demonstrações, Indução matemática, Recursividade e Relações de Recorrência, Conjuntos e Combinatória. Séries e sequências. Relações e Funções. Representações numéricas e Mudança de base numérica.
@@ -260,3 +260,12 @@ Aspectos gerais sobre interação humano-computador. Características humanísti
 | <img src="./img/human-computer_interaction_3ed.jpg" width="100"> | [Human-Computer Interaction 3ed](/livros/human-computer_interaction_3ed.pdf) | DIX, Alan; FINLAY, J. E.; ABOWD, G. D.; BEALE, R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/designing_interfaces_patterns_for_effective_interaction_design_2ed.jpg" width="100"> | [Designing Interfaces: Patterns for Effective Interaction Design 2ed](/livros/designing_interfaces_patterns_for_effective_interaction_design_2ed.pdf) | TIDWELL, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/designing_interfaces_patterns_for_effective_interaction_design_3ed.jpg" width="100"> | [Designing Interfaces: Patterns for Effective Interaction Design 3ed](/livros/designing_interfaces_patterns_for_effective_interaction_design_3ed.pdf) | TIDWELL, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+#
+## INTRODUÇÃO À PROGRAMAÇÃO
+Introdução a algoritmos. Conceitos básicos de programas: constantes; tipos de dados primitivos; variáveis; atribuição; entrada e saída de dados; expressões; estruturas de decisão; estruturas de repetição. Ponteiro. Estruturas de dados homogêneas e heterogêneas: vetores, matrizes, cadeias de caracteres, registros. Subprogramas: funções; passagens de parâmetros por valor e por referência. Manipulação de arquivos: abertura, fechamento, leitura e gravação. Tipos de acesso a arquivos: sequencial e indexado. Tipos de arquivos (texto e binário). Transcrição de algoritmos para uma linguagem de programação. Domínio de uma linguagem de programação: sintaxe e semântica; interpretação e compilação de programas; técnicas de depuração.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/logica_de_programacao_a_construcao_de_algoritmos_e_estruturas_de_dados_3ed.jpg" width="100"> | [Lógica de Programação: A construção de algoritmos e estruturas de dados 3ed](/livros/logica_de_programacao_a_construcao_de_algoritmos_e_estruturas_de_dados_3ed.pdf) | FOBERLONE, A. L. V.; EBERSPACHER, H. F. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/fundamentos_da_programacao_de_computadores_3ed.jpg" width="100"> | [Fundamentos da Programação de Computadores 3ed](/livros/fundamentos_da_programacao_de_computadores_3ed.pdf) | ASCENCIO, A. F. G.; CAMPOS C, E. A. V. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/c_completo_e_total_3ed.jpg" width="100"> | [C Completo e Total 3ed](/livros/c_completo_e_total_3ed.pdf) | SCHILDT, H. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
