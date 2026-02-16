@@ -11,7 +11,7 @@
 | INF-ARQ | [Arquitetura de Computadores](#arquitetura-de-computadores) | []() | NC  |
 | INF-BD | [Banco de Dados](#banco-de-dados) | []() | NC |
 | IME-C1A | [Cálculo 1A](#cálculo-1a) | []() | NC |
-| IME-C2A | [Cálculo 2A]() | [IME-C1A](#cálculo-1a) (co) | NE |
+| IME-C2A | [Cálculo 2A](#cálculo-2a) | [IME-C1A](#cálculo-1a) (co) | NE |
 | IME-CN | [Cálculo Numérico]() | [IME-EDO]() | NE |
 | EMC-CD | [Circuitos Digitais]() | []() | NE |
 | INF-COMP | [Compiladores]() | [INF-LFA]() | NE |
@@ -19,7 +19,7 @@
 | INF-CG | [Computação Gráfica]() | [IME-GA](); [IME-AL](#álgebra-linear) | NE  |
 | INF-CP | [Computação Paralela]() | []() | NE |
 | INF-ES | [Engenharia de Software](#engenharia-de-software) | []() | NC |
-| IME-EDO | [Equações Diferenciais Ordinárias]() | [IME-C2A]() | NE |
+| IME-EDO | [Equações Diferenciais Ordinárias]() | [IME-C2A](#cálculo-2a) | NE |
 | IF-FE1 | [Física Experimental I]() | [IF-F1]() (co) | NE |
 | IF-F1 | [Física I]() | [IME-C1A](#cálculo-1a) (co) | NE |
 | INF-FMC | [Fundamentos de Matemática para Computação](#fundamentos-de-matemática-para-computação) | []() | NC |
@@ -220,8 +220,21 @@ Números reais. Funções reais de uma variável real e suas inversas. Noções 
 | <img src="./img/um_curso_de_calculo_v1_5ed.jpg" width="100"> | [Um curso de cálculo V1 5ed](/livros/um_curso_de_calculo_v1_5ed.pdf) | GUIDORIZZI, H. L | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/um_curso_de_calculo_v1_6ed.jpg" width="100"> | [Um curso de cálculo V1 6ed](/livros/um_curso_de_calculo_v1_6ed.pdf) | GUIDORIZZI, H. L | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/calculo_das_funoes_de_uma_variavel_v1_7ed.jpg" width="100"> | [Cálculo das funções de uma variável V1 7ed](/livros/calculo_das_funoes_de_uma_variavel_v1_7ed.pdf) | ÁVILA, G. S. S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
-| <img src="./img/calculo_v1_5ed.jpg" width="100"> | [Cálculo V1 5 ed](/livros/calculo_v1_5ed.pdf) | STEWART, J.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
-| <img src="./img/calculo_v1_7ed.png" width="100"> | [Cálculo V1 7 ed](/livros/calculo_v1_7ed.pdf) | STEWART, J.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/calculo_v1_5ed.jpg" width="100"> | [Cálculo V1 5ed](/livros/calculo_v1_5ed.pdf) | STEWART, J.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/calculo_v1_7ed.png" width="100"> | [Cálculo V1 7ed](/livros/calculo_v1_7ed.pdf) | STEWART, J.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## CÁLCULO 2A
+Sequências e séries numéricas. Séries de potência, convergência. Funções de várias variáveis. Limite e Continuidade. Noções sobre quádricas. Funções diferenciáveis. Derivadas parciais e direcionais. Fórmula de Taylor. Máximos e mínimos. Integrais múltiplas. Mudança de Coordenadas. Aplicações.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/o_calculo_com_geometria_analitica_v2_3ed.webp" width="100"> | [O cálculo com geometria analítica V2 3ed](/livros/o_calculo_com_geometria_analitica_v2_3ed.pdf) | LEITHOLD, L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/um_curso_de_calculo_v2_5ed.jpg" width="100"> | [Um curso de cálculo V2 5ed](/livros/um_curso_de_calculo_v2_5ed.pdf) | GUIDORIZZI, H. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/um_curso_de_calculo_v3_5ed.jpg" width="100"> | [Um curso de cálculo V3 5ed](/livros/um_curso_de_calculo_v3_5ed.pdf) | GUIDORIZZI, H. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/um_curso_de_calculo_v2_6ed.jpg" width="100"> | [Um curso de cálculo V2 6ed](/livros/um_curso_de_calculo_v3_5ed.pdf) | GUIDORIZZI, H. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/um_curso_de_calculo_v3_6ed.jpg" width="100"> | [Um curso de cálculo V3 6ed](/livros/um_curso_de_calculo_v3_6ed.pdf) | GUIDORIZZI, H. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/calculo_v2_5ed.webp" width="100"> | [Cálculo V2 5ed](/livros/calculo_v2_5ed.pdf) | STEWART, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/calculo_v2_7ed.jpg" width="100"> | [Cálculo V2 7ed](/livros/calculo_v2_7ed.pdf) | STEWART, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## COMPUTAÇÃO E SOCIEDADE
 História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares. Importância e desafios da computação no Brasil e no mundo. Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão. Leis e normas relacionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação. Ética na Computação. Empresas de tecnologia da informação. Incubadoras de empresas.
