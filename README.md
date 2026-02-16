@@ -22,16 +22,16 @@
 | IME-EDO | [Equações Diferenciais Ordinárias]() | [IME-C2A]() | NE |
 | IF-FE1 | [Física Experimental I]() | [IF-F1]() (co) | NE |
 | IF-F1 | [Física I]() | [IME-C1A](#cálculo-1a) (co) | NE |
-| INF-FMC | [Fundamentos de Matemática para Computação]() | []() | NC |
+| INF-FMC | [Fundamentos de Matemática para Computação](#fundamentos-de-matemática-para-computação) | []() | NC |
 | IME-GA | [Geometria Analítica]() | []() | NE |
 | INF-IA | [Inteligência Artificial]() | [IME-PEA]() | NE |
 | INF-IHC | [Interação Humano-Computador]() | []() | NC |
 | INF-ICCC | [Introdução à Computabilidade e à Complexidade Computacional]() | [INF-LFA](); [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
 | INF-IP | [Introdução à Programação]() | []() | NC |
 | INF-LPP | [Linguagens e Paradigmas de Programação]() | []() | NC |
-| INF-LFA | [Linguagens Formais e Autômatos]() | [INF-FMC]() | NE |
+| INF-LFA | [Linguagens Formais e Autômatos]() | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
 | INF-LM | [Lógica Matemática]() | [INF-MD]() | NC |
-| INF-MD | [Matemática Discreta]() | [INF-FMC]() | NE |
+| INF-MD | [Matemática Discreta]() | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
 | INF-MPC | [Metodologia de Pesquisa em Computação]() | []() | NE |
 | INF-PO | [Pesquisa Operacional]() | [IME-AL]() | NE |
 | IME-PEA | [Probabilidade e Estatística A]() | [IME-C1A](#cálculo-1a) | NC |
@@ -235,9 +235,18 @@ Requisitos de software. Projeto (design) de software. Construção de software. 
 #
 | Livro | Nome da Obra | Autor | Idioma |
 |------------|------------|------------|------------|
-| <img src="./img/engenharia_de_software_uma_abordagem_profissional_8ed.jpg" width="100"> | [Engenharia De Software Uma Abordagem Profissional 8ed](/livros/engenharia_de_software_uma_abordagem_profissional_8ed.pdf) | PRESSMAN, R.; MAXIM, B.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
-| <img src="./img/engenharia_de_software_uma_abordagem_profissional_9ed.jpg" width="100"> | [Engenharia De Software Uma Abordagem Profissional 9ed](/livros/engenharia_de_software_uma_abordagem_profissional_9ed.pdf) | PRESSMAN, R.; MAXIM, B.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/engenharia_de_software_uma_abordagem_profissional_8ed.jpg" width="100"> | [Engenharia De Software Uma Abordagem Profissional 8ed](/livros/engenharia_de_software_uma_abordagem_profissional_8ed.pdf) | PRESSMAN, R.; MAXIM, B. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/engenharia_de_software_uma_abordagem_profissional_9ed.jpg" width="100"> | [Engenharia De Software Uma Abordagem Profissional 9ed](/livros/engenharia_de_software_uma_abordagem_profissional_9ed.pdf) | PRESSMAN, R.; MAXIM, B. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/engenharia_de_software_10ed.jpg" width="100"> | [Engenharia De Software 10ed](https://drive.google.com/file/d/10O-TZQNQpPRZE4zqR-Ptms57IjjTaidj/view?usp=drive_link) | SOMMERVILLE, I. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/engenharia_de_software_conceitos_e_praticas.jpg" width="100"> | [Engenharia de software: conceitos e práticas](/livros/) | WAZLAWICK, R. S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/pmbok_7ed.png" width="100"> | [Guia PMBOK 7ed](/livros/pmbok_7ed.pdf) | PMI | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/pmbok_8ed.jpg" width="100"> | [PMBOK Guide 8ed](/livros/pmbok_8ed.pdf) | PMI | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) 
+#
+## FUNDAMENTOS DE MATEMÁTICA PARA COMPUTAÇÃO
+Noções de lógica, Introdução a demonstrações, Indução matemática, Recursividade e Relações de Recorrência, Conjuntos e Combinatória. Séries e sequências. Relações e Funções. Representações numéricas e Mudança de base numérica.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/fundamentos_matematicos_para_a_ciencia_da_computacao_7ed.jpg" width="100"> | [Fundamentos Matemáticos para a Ciência da Computação 7ed](/livros/fundamentos_matematicos_para_a_ciencia_da_computacao_7ed.pdf) | GERSTING, J. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/matematica_discreta_uma_introducao_3ed.jpg" width="100"> | [Matemática Discreta, Uma introdução 3ed](https://drive.google.com/file/d/1Okn6ZtTOfLGS3smhZbs5eYV73DfQpVhx/view?usp=drive_link) | SCHEINERMAN, E. R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/discrete_and_combinatorial_mathematics_an_applied_introduction_5ed.jpg" width="100"> | [Discrete and Combinatorial Mathematics - An Applied Introduction 5ed](/livros/discrete_and_combinatorial_mathematics_an_applied_introduction_5ed.pdf) | GRIMALDI, R. P. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
