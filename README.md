@@ -279,3 +279,11 @@ Estudo dos conceitos de linguagens de programação e dos paradigmas de programa
 | <img src="./img/concepts_of_programming_languages_11ed.webp" width="100"> | [Concepts of Programming Languages 11ed](/livros/concepts_of_programming_languages_11ed.pdf) | SEBESTA, R. W. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/programming_language_pragmatics_3ed.jpg" width="100"> | [Programming Language Pragmatics 3ed](/livros/programming_language_pragmatics_3ed.pdf) | SCOTT, M. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/programming_language_concepts_3ed.jpg" width="100"> | [Programming Language Concepts 3ed](/livros/programming_language_concepts_3ed.pdf) | GHEZZI, C.; JAZAYERI, M. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+#
+## LÓGICA MATEMÁTICA
+Lógica Proposicional e de Predicados. Sistemas Dedutivos. Relações de Consequência. Correção e Completamento. Aplicações em Computação.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/logica_para_ciencia_da_computacao_3ed.jpg" width="100"> | [Lógica para Ciência da Computação 3ed](/livros/logica_para_ciencia_da_computacao_3ed.pdf) | SOUZA, J. N. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/logica_para_computacao.webp" width="100"> | [Lógica para Computação](/livros/logica_para_computacao.pdf) | SILVA, F. C.; FINGER, M.; MELO, A. C. V. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
