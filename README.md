@@ -16,14 +16,14 @@
 | EMC-CD | [Circuitos Digitais](#circuitos-digitais) | []() | NE |
 | INF-COMP | [Compiladores](#compiladores) | [INF-LFA]() | NE |
 | INF-CS | [Computação e Sociedade](#computação-e-sociedade) | []() | NC |
-| INF-CG | [Computação Gráfica](#computação-gráfica) | [IME-GA](); [IME-AL](#álgebra-linear) | NE  |
+| INF-CG | [Computação Gráfica](#computação-gráfica) | [IME-GA](#geometria-analítica); [IME-AL](#álgebra-linear) | NE  |
 | INF-CP | [Computação Paralela](#computação-paralela) | []() | NE |
 | INF-ES | [Engenharia de Software](#engenharia-de-software) | []() | NC |
 | IME-EDO | [Equações Diferenciais Ordinárias](#equações-diferenciais-ordinárias) | [IME-C2A](#cálculo-2a) | NE |
 | IF-F1 | [Física I](#física-i) | [IME-C1A](#cálculo-1a) (co) | NE |
 | IF-FE1 | [Física Experimental I](#física-experimental-i) | [IF-F1](#física-i) (co) | NE |
 | INF-FMC | [Fundamentos de Matemática para Computação](#fundamentos-de-matemática-para-computação) | []() | NC |
-| IME-GA | [Geometria Analítica]() | []() | NE |
+| IME-GA | [Geometria Analítica](#geometria-analítica) | []() | NE |
 | INF-IA | [Inteligência Artificial]() | [IME-PEA](#probabilidade-e-estatística-a) | NE |
 | INF-IHC | [Interação Humano-Computador](#interação-humano-computador) | []() | NC |
 | INF-ICCC | [Introdução à Computabilidade e à Complexidade Computacional]() | [INF-LFA](); [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
@@ -336,6 +336,15 @@ Noções de lógica, Introdução a demonstrações, Indução matemática, Recu
 | <img src="./img/fundamentos_matematicos_para_a_ciencia_da_computacao_7ed.jpg" width="100"> | [Fundamentos Matemáticos para a Ciência da Computação 7ed](/livros/fundamentos_matematicos_para_a_ciencia_da_computacao_7ed.pdf) | GERSTING, J. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/matematica_discreta_uma_introducao_3ed.jpg" width="100"> | [Matemática Discreta, Uma introdução 3ed](https://drive.google.com/file/d/1Okn6ZtTOfLGS3smhZbs5eYV73DfQpVhx/view?usp=drive_link) | SCHEINERMAN, E. R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/discrete_and_combinatorial_mathematics_an_applied_introduction_5ed.jpg" width="100"> | [Discrete and Combinatorial Mathematics - An Applied Introduction 5ed](/livros/discrete_and_combinatorial_mathematics_an_applied_introduction_5ed.pdf) | GRIMALDI, R. P. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+#
+## GEOMETRIA ANALÍTICA
+Vetores no plano e no espaço: Produto escalar e vetorial; Retas: equações cartesiana e paramétricas; Planos; Cônicas; Superfícies Quádricas; Coordenadas polares.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/geometria_analitica_2ed.jpg" width="100"> | [Geometria analítica 2ed](/livros/geometria_analitica_2ed.pdf) | REIS, G. L; SILVA, V. V. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/coordenadas_no_plano_4ed.webp" width="100"> | [Coordenadas no plano 4ed](/livros/coordenadas_no_plano_4ed.pdfr) | LIMA, E. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/coordenadas_no_plano_5ed.webp" width="100"> | [Coordenadas no plano 5ed](/livros/coordenadas_no_plano_5ed.pdf) | LIMA, E. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## INTERAÇÃO HUMANO-COMPUTADOR
 Aspectos gerais sobre interação humano-computador. Características humanísticas e biológicas, envolvendo questões sobre genealogia, gênero, aspectos étnicos, raciais e culturais, direitos e aspectos políticos, deficiências, limitações e capacidades, dentre outros. Ciclo da interação e principais problemas. Metas de usabilidade e experiência do usuário. Fatores humanos em software interativo: teoria, princípios e regras básicas. Modelos conceituais e metáforas. Estilos de interação. Elementos de interação
