@@ -36,8 +36,8 @@
 | INF-PO | [Pesquisa Operacional](#pesquisa-operacional) | [IME-AL](#álgebra-linear) | NE |
 | IME-PEA | [Probabilidade e Estatística A](#probabilidade-e-estatística-a) | [IME-C1A](#cálculo-1a) | NC |
 | INF-POO | [Programação Orientada a Objetos](#programação-orientada-a-objetos) | [INF-IP](#introdução-à-programação) | NC |
-| INF-PFC1 | [Projeto Final de Curso 1]() | []() | NE |
-| INF-PFC2 | [Projeto Final de Curso 2]() | []() | NE |
+| INF-PFC1 | [Projeto Final de Curso 1](#projeto-final-de-curso-1-e-2) | []() | NE |
+| INF-PFC2 | [Projeto Final de Curso 2](#projeto-final-de-curso-1-e-2) | []() | NE |
 | INF-RC | [Redes de Computadores 1]() | []() | NE |
 | INF-SD | [Sistemas Distribuídos]() | []() | NE |
 | INF-SO | [Sistemas Operacionais]() | []() | NE |
@@ -452,3 +452,16 @@ Abstração e tipos abstratos de dados. Classes, métodos, encapsulamento, inter
 | <img src="./img/pensando_em_Java_3ed.jpg" width="100"> | [Pensando em Java 3ed](https://ww2.inf.ufg.br/~marceloakira/intro-prog/docs/tij/tij2pej/PEJ3.htm) | ECKEL, B. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/thinking_in_java_4ed.jpg" width="100"> | [Thinking in Java 4ed](./livros/thinking_in_java_4ed.pdf) | ECKEL, B. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/java_como_programar_10ed.webp" width="100"> | [Java como programar 10ed](./livros/java_como_programar_10ed.pdf) | DEITEL, P. J; DEITEL, H. M. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## PROJETO FINAL DE CURSO 1 e 2
+Planejamento de ações em projeto de pesquisa e/ou desenvolvimento. Preparação de um trabalho de pesquisa. Construção de cronogramas. Revisão bibliográfica. Escrita de trabalho científico.
+
+*Desenvolvimento do projeto acompanhado por professor orientador. Tem como finalidade dar experiência adquiridos durante o curso.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/metodologia_do_trabalho_científico_23ed.jpg" width="100"> | [Metodologia do Trabalho Científico 23ed](./livros/metodologia_do_trabalho_científico_23ed.pdf) | SEVERINO, A. J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/metodologia_de_pesquisa_para_ciencia_da_computacao_3ed.jpg" width="100"> | [Metodologia de Pesquisa para Ciência da Computação 3ed](./livros/metodologia_de_pesquisa_para_ciencia_da_computacao_3ed.pdf) | WAZLAWICK, R. S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/writing_for_computer_science_3ed.jpg" width="100"> | [Writing for Computer Science 3ed](./livros/writing_for_computer_science_3ed.pdf) | ZOBEL,J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/INF_UFG.png" width="100"> | [Trabalho de Conclusão de Curso](https://inf.ufg.br/p/30168-trabalho-de-conclusao-de-curso) | INSTITUTO DE INFORMÁTICA | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/INF_UFG.png" width="100"> | [Resolução CD/INF No 01/2023](https://files.cercomp.ufg.br/weby/up/1218/o/Resolu%C3%A7%C3%A3o_INF_01_2023.pdf) | INSTITUTO DE INFORMÁTICA | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
