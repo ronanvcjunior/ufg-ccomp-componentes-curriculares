@@ -20,8 +20,8 @@
 | INF-CP | [Computação Paralela](#computação-paralela) | []() | NE |
 | INF-ES | [Engenharia de Software](#engenharia-de-software) | []() | NC |
 | IME-EDO | [Equações Diferenciais Ordinárias](#equações-diferenciais-ordinárias) | [IME-C2A](#cálculo-2a) | NE |
-| IF-FE1 | [Física Experimental I]() | [IF-F1]() (co) | NE |
 | IF-F1 | [Física I]() | [IME-C1A](#cálculo-1a) (co) | NE |
+| IF-FE1 | [Física Experimental I]() | [IF-F1]() (co) | NE |
 | INF-FMC | [Fundamentos de Matemática para Computação](#fundamentos-de-matemática-para-computação) | []() | NC |
 | IME-GA | [Geometria Analítica]() | []() | NE |
 | INF-IA | [Inteligência Artificial]() | [IME-PEA](#probabilidade-e-estatística-a) | NE |
@@ -306,6 +306,16 @@ Equações diferenciais ordinárias de primeira ordem lineares e não lineares. 
 | <img src="./img/equaoes_diferenciais_com_aplicaoes_em_modelagem.webp" width="100"> | [Equações Diferenciais com aplicações em modelagem](https://drive.google.com/file/d/1wACSEf1ZK-WOBJskW83fnU-wgIERZgRV/view?usp=drive_link) | ZILL, D. G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/equações_diferenciais_v1_3ed.jpg" width="100"> | [Equações Diferenciais V1 3ed](/livros/equações_diferenciais_v1_3ed.pdf) | ZILL, D. G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/equações_diferenciais_v2_3ed.jpg" width="100"> | [Equações Diferenciais V2 3ed](/livros/equações_diferenciais_v2_3ed.pdf) | ZILL, D. G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## FÍSICA I
+Introdução à Física. Cinemática e Dinâmica da Partícula. Trabalho e Energia. Gravitação. Sistemas de Partículas. Conservação do Momento Linear. Equilíbrio. Estática, Cinemática e Dinâmica da Rotação de Corpos Rígidos. Conservação do Momento Angular.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/fisica_i_mecanica_v1_12ed.jpg" width="100"> | [Física I: Mecânica V1 12ed](/livros/fisica_i_mecanica_v1_12ed.pdf) | YOUNG, H. D.; FREEDMAN, R. A. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/fisica_i_mecanica_v1_14ed.webp" width="100"> | [Física I: Mecânica V1 14ed](/livros/fisica_i_mecanica_v1_14ed.pdf) | YOUNG, H. D.; FREEDMAN, R. A. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/fundamentos_de_fisica_mecanica_v1_9ed.jpg" width="100"> | [Fundamentos de Física: Mecânica V1 9ed](/livros/fundamentos_de_fisica_mecanica_v1_9ed.pdf) | HALLIDAY, D.; RESNICK, R.; WALKER, J.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/curso_de_fisica_basica_mecanica_v1_4ed.png" width="100"> | [Curso de Física Básica: Mecânica V1 4ed](/livros/curso_de_fisica_basica_mecanica_v1_4ed.pdf) | NUSSENZVEIG, H. M. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## FUNDAMENTOS DE MATEMÁTICA PARA COMPUTAÇÃO
 Noções de lógica, Introdução a demonstrações, Indução matemática, Recursividade e Relações de Recorrência, Conjuntos e Combinatória. Séries e sequências. Relações e Funções. Representações numéricas e Mudança de base numérica.
