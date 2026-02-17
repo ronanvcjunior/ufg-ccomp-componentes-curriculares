@@ -41,7 +41,7 @@
 | INF-RC | [Redes de Computadores 1](#redes-de-computadores-1) | []() | NE |
 | INF-SD | [Sistemas Distribuídos](#sistemas-distribuídos) | []() | NE |
 | INF-SO | [Sistemas Operacionais](#sistemas-operacionais) | []() | NE |
-| INF-SB | [Software Básico]() | [INF-ARQ](#arquitetura-de-computadores) | NE |
+| INF-SB | [Software Básico](#software-básico) | [INF-ARQ](#arquitetura-de-computadores) | NE |
 | INF-TG | [Teoria dos Grafos]() | [INF-MD](#matemática-discreta) | NE |
 #
 
@@ -492,3 +492,13 @@ Gerenciamento de processos. Gerenciamento de memória. Sistemas de arquivos. Pro
 | <img src="./img/sistemas_operacionais_modernos_4ed.jpg" width="100"> | [Sistemas Operacionais Modernos 4ed](./livros/sistemas_operacionais_modernos_4ed.pdf) | TANENBAUM, A. S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/fundamentos_de_sistemas_operacionais_9ed.png" width="100"> | [Fundamentos de Sistemas Operacionais 9ed](./livros/fundamentos_de_sistemas_operacionais_9ed.pdf) | SILBERSCHATZ, A.; GALVIN, P.; GAGNE, G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/sistemas_operacionais_conceitos_e_mecanismos.png" width="100"> | [Sistemas Operacionais: Conceitos e Mecanismos](https://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start) | MAZIERO, C. A. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## SOFTWARE BÁSICO
+Visão geral de um sistema computacional. Linguagem de montagem. Mapeamento de estruturas de linguagens de alto nível para a linguagem Assembly. Pilha de execução e modelo de chamadas de função. Interrupções e seus tipos. "Link-edição" e bibliotecas.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/computer_systems_a_programmers_erspective_2ed.jpg" width="100"> | [Computer Systems: A Programmer’s Perspective 2ed](/livros/computer_systems_a_programmers_erspective_2ed.pdf) | BRYANT, R.; O’RALLARON, D. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/computer_systems_a_programmers_erspective_3ed.jpg" width="100"> | [Computer Systems: A Programmer’s Perspective 3ed](/livros/computer_systems_a_programmers_erspective_3ed.pdf) | BRYANT, R.; O’RALLARON, D. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/assembly_language_step_by_step_programming_with_linux_3ed.jpg" width="100"> | [Assembly Language Step-by-Step: Programming wiht Linux 3ed](./livros/assembly_language_step_by_step_programming_with_linux_3ed.pdf) | DUNTEMANN, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/assembly_language_step_by_step_programming_with_linux_4ed.jpg" width="100"> | [Assembly Language Step-by-Step: Programming wiht Linux 4ed](./livros/assembly_language_step_by_step_programming_with_linux_4ed.pdf) | DUNTEMANN, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
