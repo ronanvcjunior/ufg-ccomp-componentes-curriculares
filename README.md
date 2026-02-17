@@ -33,7 +33,7 @@
 | INF-LM | [Lógica Matemática](#lógica-matemática) | [INF-MD](#matemática-discreta) | NC |
 | INF-MD | [Matemática Discreta](#matemática-discreta) | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
 | INF-MPC | [Metodologia de Pesquisa em Computação](#metodologia-de-pesquisa-em-computação) | []() | NE |
-| INF-PO | [Pesquisa Operacional]() | [IME-AL](#álgebra-linear) | NE |
+| INF-PO | [Pesquisa Operacional](#pesquisa-operacional) | [IME-AL](#álgebra-linear) | NE |
 | IME-PEA | [Probabilidade e Estatística A](#probabilidade-e-estatística-a) | [IME-C1A](#cálculo-1a) | NC |
 | INF-POO | [Programação Orientada a Objetos](#programação-orientada-a-objetos) | [INF-IP](#introdução-à-programação) | NC |
 | INF-PFC1 | [Projeto Final de Curso 1]() | []() | NE |
@@ -76,7 +76,7 @@
 | INF-ESBB | [Engenharia de Software Baseada em Busca]() | []() | NE |
 | IF-F3 | [Física 3]() | [IF-F1](#física-i) | NE |
 | IF-FE3 | [Física Experimental 3]() | [IF-FE1](#física-experimental-i) | NE |
-| INF-FR | [Fluxos em Redes]() | [INF-TG](); [INF-PO]() | NE |
+| INF-FR | [Fluxos em Redes]() | [INF-TG](); [INF-PO](#pesquisa-operacional) | NE |
 | INF-FOTO | [Fotogrametria]() | []() | NE |
 | INF-FLP | [Fundamentos de Linguagem de Programação]() | [INF-LC]() | NE |
 | INF-GPS | [Gerência de Projeto de Software]() | []() | NE |
@@ -425,6 +425,15 @@ Estilos de pesquisa em Computação. Preparação de um trabalho de pesquisa. Es
 |------------|------------|------------|------------|
 | <img src="./img/metodologia_do_trabalho_científico_23ed.jpg" width="100"> | [Metodologia do Trabalho Científico 23ed](./livros/metodologia_do_trabalho_científico_23ed.pdf) | SEVERINO, A. J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/metodologia_de_pesquisa_para_ciencia_da_computacao_3ed.jpg" width="100"> | [Metodologia de Pesquisa para Ciência da Computação 3ed](./livros/metodologia_de_pesquisa_para_ciencia_da_computacao_3ed.pdf) | WAZLAWICK, R. S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## PESQUISA OPERACIONAL
+Modelagem. Problema de Programação Linear (PL). Resolução gráfica de PL. Algoritmo Simplex. Dualidade. Algoritmo Simplex-Dual. Pós-otimização e Análise de Sensibilidade.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/introducao_a_programacao_linear_3ed.jpeg" width="100"> | [Introdução à Programação Linear 3ed](./livros/introducao_a_programacao_linear_3ed.pdf) | BREGALDA, P. F.; OLIVEIRA, A. A. F. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/otimizacao_combinatoria_e_programacao_linear_2ed.png" width="100"> | [Otimização Combinatória e Programação Linear 2ed](./livros/otimizacao_combinatoria_e_programacao_linear_2ed.pdf) | GOLBARG, M.; LUNA, H. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/pesquisa_operacional_8ed.jpg" width="100"> | [Pesquisa Operacional 8ed](https://drive.google.com/file/d/11vyW94-i_Jwa68zuU5w-FkypMIiVoQxB/view?usp=drive_link) | TAHA, H. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## PROBABILIDADE E ESTATÍSTICA A
 Estatística descritiva. Noções sobre amostragem. Introdução à teoria de conjuntos. Introdução à teoria de probabilidade: espaço amostral, eventos, frequência relativa, fundamentos de probabilidade, probabilidade condicional, eventos independentes e teorema de Bayes. Variáveis aleatórias: conceitos básicos, esperança e variância. Distribuições discretas de probabilidade: uniforme, binomial e Poisson. Distribuições contínuas de probabilidade: uniforme, exponencial, normal e t-Student. Estimação pontual e intervalar para uma população: média e proporção. Teste de hipóteses para uma população: média e proporção. Correlação linear e regressão linear simples.
