@@ -24,7 +24,7 @@
 | IF-FE1 | [Física Experimental I](#física-experimental-i) | [IF-F1](#física-i) (co) | NE |
 | INF-FMC | [Fundamentos de Matemática para Computação](#fundamentos-de-matemática-para-computação) | []() | NC |
 | IME-GA | [Geometria Analítica](#geometria-analítica) | []() | NE |
-| INF-IA | [Inteligência Artificial]() | [IME-PEA](#probabilidade-e-estatística-a) | NE |
+| INF-IA | [Inteligência Artificial](#inteligência-artificial) | [IME-PEA](#probabilidade-e-estatística-a) | NE |
 | INF-IHC | [Interação Humano-Computador](#interação-humano-computador) | []() | NC |
 | INF-ICCC | [Introdução à Computabilidade e à Complexidade Computacional]() | [INF-LFA](); [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
 | INF-IP | [Introdução à Programação](#introdução-à-programação) | []() | NC |
@@ -53,8 +53,8 @@
 | INF-AG | [Algoritmos em Grafos]() | [INF-TG]() | NE |
 | INF-AMC | [Aplicações de Microcontroladores]() | [INF-MICRO]() | NE |
 | INF-AM | [Aprendizado de Máquina]() | []() | NE |
-| INF-AMNS | [Aprendizado de Máquina Não Supervisionado]() | [INF-IA]() | NE |
-| INF-AMS | [Aprendizado de Máquina Supervisionado]() | [INF-IA]() | NE |
+| INF-AMNS | [Aprendizado de Máquina Não Supervisionado]() | [INF-IA](#inteligência-artificial) | NE |
+| INF-AMS | [Aprendizado de Máquina Supervisionado]() | [INF-IA](#inteligência-artificial) | NE |
 | INF-APR | [Aprendizado de Máquina por Reforço]() | []() | NE |
 | INF-AD | [Armazém de Dados]() | []() | NE |
 | INF-AS | [Arquitetura de Software]() | []() | NE |
@@ -345,6 +345,15 @@ Vetores no plano e no espaço: Produto escalar e vetorial; Retas: equações car
 | <img src="./img/geometria_analitica_2ed.jpg" width="100"> | [Geometria analítica 2ed](/livros/geometria_analitica_2ed.pdf) | REIS, G. L; SILVA, V. V. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/coordenadas_no_plano_4ed.webp" width="100"> | [Coordenadas no plano 4ed](/livros/coordenadas_no_plano_4ed.pdfr) | LIMA, E. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/coordenadas_no_plano_5ed.webp" width="100"> | [Coordenadas no plano 5ed](/livros/coordenadas_no_plano_5ed.pdf) | LIMA, E. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## INTELIGÊNCIA ARTIFICIAL
+Visão geral da Inteligência Artificial e suas aplicações. Representação do conhecimento. Resolução de problemas por meio de buscas. Incerteza. Lógica Fuzzy. Aprendizado de máquina. Aplicações práticas utilizando técnicas de Inteligência Artificial.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/inteligencia_artificial_3ed.jpg" width="100"> | [Inteligência Artificial 3ed](/livros/inteligencia_artificial_3ed.pdf) | RUSSELL, S; Norvig, P. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/inteligencia_artificial_6ed.jpg" width="100"> | [Inteligência Artificial 6ed](https://drive.google.com/file/d/1ydIA_8-FvOc2r8IKt6qkDlL3JE1VOPz9/view?usp=drive_link) | LUGER, G. F. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/inteligencia_artificial_6ed_darkmode.jpg" width="100"> | [Inteligência Artificial 6ed Darkmode](https://drive.google.com/file/d/19YTYc5nXqJCfBuBlmFhSoQQm0_-IUaGf/view?usp=drive_link) | LUGER, G. F. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## INTERAÇÃO HUMANO-COMPUTADOR
 Aspectos gerais sobre interação humano-computador. Características humanísticas e biológicas, envolvendo questões sobre genealogia, gênero, aspectos étnicos, raciais e culturais, direitos e aspectos políticos, deficiências, limitações e capacidades, dentre outros. Ciclo da interação e principais problemas. Metas de usabilidade e experiência do usuário. Fatores humanos em software interativo: teoria, princípios e regras básicas. Modelos conceituais e metáforas. Estilos de interação. Elementos de interação
