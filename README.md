@@ -32,7 +32,7 @@
 | INF-LFA | [Linguagens Formais e Autômatos](#linguagens-formais-e-autômatos) | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
 | INF-LM | [Lógica Matemática](#lógica-matemática) | [INF-MD](#matemática-discreta) | NC |
 | INF-MD | [Matemática Discreta](#matemática-discreta) | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
-| INF-MPC | [Metodologia de Pesquisa em Computação]() | []() | NE |
+| INF-MPC | [Metodologia de Pesquisa em Computação](#metodologia-de-pesquisa-em-computação) | []() | NE |
 | INF-PO | [Pesquisa Operacional]() | [IME-AL](#álgebra-linear) | NE |
 | IME-PEA | [Probabilidade e Estatística A](#probabilidade-e-estatística-a) | [IME-C1A](#cálculo-1a) | NC |
 | INF-POO | [Programação Orientada a Objetos](#programação-orientada-a-objetos) | [INF-IP](#introdução-à-programação) | NC |
@@ -417,6 +417,14 @@ Conjuntos: finito, infinito, enumerável, cardinalidade. Técnica de diagonaliza
 | <img src="./img/matematica_discreta_e_suas_aplicacoes_6ed.jpg" width="100"> | [Matemática Discreta e Suas Aplicações 6ed](https://drive.google.com/file/d/1Okn6ZtTOfLGS3smhZbs5eYV73DfQpVhx/view?usp=drive_link) | ROSEN, K. H. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/introducao_a_teoria_dos_numeros.jpg" width="100"> | [Introdução à Teoria dos Números](/livros/introducao_a_teoria_dos_numeros.pdf) | SANTOS, J. P. D. O. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/numeros_inteiros_e_criptografia_rsa_2ed.jpg" width="100"> | [Números Inteiros e Criptografia RSA 2ed](/livros/numeros_inteiros_e_criptografia_rsa_2ed.pdf) | COUTINHO, S. C. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## METODOLOGIA DE PESQUISA EM COMPUTAÇÃO
+Estilos de pesquisa em Computação. Preparação de um trabalho de pesquisa. Escrita do trabalho científico. Apresentação oral do trabalho científico. Apresentação de programas de Iniciação Científica.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/metodologia_do_trabalho_científico_23ed.jpg" width="100"> | [Metodologia do Trabalho Científico 23ed](./livros/metodologia_do_trabalho_científico_23ed.pdf) | SEVERINO, A. J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/metodologia_de_pesquisa_para_ciencia_da_computacao_3ed.jpg" width="100"> | [Metodologia de Pesquisa para Ciência da Computação 3ed](./livros/metodologia_de_pesquisa_para_ciencia_da_computacao_3ed.pdf) | WAZLAWICK, R. S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## PROBABILIDADE E ESTATÍSTICA A
 Estatística descritiva. Noções sobre amostragem. Introdução à teoria de conjuntos. Introdução à teoria de probabilidade: espaço amostral, eventos, frequência relativa, fundamentos de probabilidade, probabilidade condicional, eventos independentes e teorema de Bayes. Variáveis aleatórias: conceitos básicos, esperança e variância. Distribuições discretas de probabilidade: uniforme, binomial e Poisson. Distribuições contínuas de probabilidade: uniforme, exponencial, normal e t-Student. Estimação pontual e intervalar para uma população: média e proporção. Teste de hipóteses para uma população: média e proporção. Correlação linear e regressão linear simples.
