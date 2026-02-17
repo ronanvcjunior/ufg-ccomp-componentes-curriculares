@@ -42,7 +42,7 @@
 | INF-SD | [Sistemas Distribuídos](#sistemas-distribuídos) | []() | NE |
 | INF-SO | [Sistemas Operacionais](#sistemas-operacionais) | []() | NE |
 | INF-SB | [Software Básico](#software-básico) | [INF-ARQ](#arquitetura-de-computadores) | NE |
-| INF-TG | [Teoria dos Grafos]() | [INF-MD](#matemática-discreta) | NE |
+| INF-TG | [Teoria dos Grafos](#teoria-dos-grafos) | [INF-MD](#matemática-discreta) | NE |
 #
 
 ## Disciplinas de natureza optativa
@@ -50,7 +50,7 @@
 | Sigla | Nome da Disciplina | Requisitos | Núcleo |
 |------------|------------|------------|------------|
 | INF-AA | [Algoritmos de Aproximação]() | [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
-| INF-AG | [Algoritmos em Grafos]() | [INF-TG]() | NE |
+| INF-AG | [Algoritmos em Grafos]() | [INF-TG](#teoria-dos-grafos) | NE |
 | INF-AMC | [Aplicações de Microcontroladores]() | [INF-MICRO]() | NE |
 | INF-AM | [Aprendizado de Máquina]() | []() | NE |
 | INF-AMNS | [Aprendizado de Máquina Não Supervisionado]() | [INF-IA](#inteligência-artificial) | NE |
@@ -60,7 +60,7 @@
 | INF-AS | [Arquitetura de Software]() | []() | NE |
 | INF-ADSC | [Avaliação de Desempenho de Sistemas Computacionais]() | []() | NE |
 | INF-BDD | [Banco de Dados Distribuídos]() | []() | NE |
-| INF-CC | [Classes de Grafos]() | [INF-TG]() | NE |
+| INF-CC | [Classes de Grafos]() | [INF-TG](#teoria-dos-grafos) | NE |
 | INF-CPAR | [Complexidade Parametrizada]() | [INF-ICCC](#introdução-à-computabilidade-e-à-complexidade-computacional) | NE |
 | INF-CAD | [Computação de Alto Desempenho]() | []() | NE |
 | INF-CE | [Computação Evolucionária]() | []() | NE |
@@ -76,7 +76,7 @@
 | INF-ESBB | [Engenharia de Software Baseada em Busca]() | []() | NE |
 | IF-F3 | [Física 3]() | [IF-F1](#física-i) | NE |
 | IF-FE3 | [Física Experimental 3]() | [IF-FE1](#física-experimental-i) | NE |
-| INF-FR | [Fluxos em Redes]() | [INF-TG](); [INF-PO](#pesquisa-operacional) | NE |
+| INF-FR | [Fluxos em Redes]() | [INF-TG](#teoria-dos-grafos); [INF-PO](#pesquisa-operacional) | NE |
 | INF-FOTO | [Fotogrametria]() | []() | NE |
 | INF-FLP | [Fundamentos de Linguagem de Programação]() | [INF-LC]() | NE |
 | INF-GPS | [Gerência de Projeto de Software]() | []() | NE |
@@ -129,7 +129,7 @@
 | INF-SDM | [Software para Dispositivos Móveis]() | [INF-PS]() | NE |
 | INF-SPD | [Software para Persistência de Dados]() | [INF-SGBD]() | NE |
 | INF-SSU | [Software para Sistemas Ubíquos]() | [INF-IIS]() | NE |
-| INF-TG2 | [Teoria dos Grafos II]() | [INF-TG]() | NE |
+| INF-TG2 | [Teoria dos Grafos II]() | [INF-TG](#teoria-dos-grafos) | NE |
 | INF-TS | [Teste de Software]() | []() | NE |
 | INF-TARSF | [Tópicos Avançados em Redes Sem Fio]() | []() | NE |
 | INF-TSI | [Tópicos Avançados em Sistemas de Informação 1]() | []() | NE |
@@ -502,3 +502,13 @@ Visão geral de um sistema computacional. Linguagem de montagem. Mapeamento de e
 | <img src="./img/computer_systems_a_programmers_erspective_3ed.jpg" width="100"> | [Computer Systems: A Programmer’s Perspective 3ed](/livros/computer_systems_a_programmers_erspective_3ed.pdf) | BRYANT, R.; O’RALLARON, D. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/assembly_language_step_by_step_programming_with_linux_3ed.jpg" width="100"> | [Assembly Language Step-by-Step: Programming wiht Linux 3ed](./livros/assembly_language_step_by_step_programming_with_linux_3ed.pdf) | DUNTEMANN, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/assembly_language_step_by_step_programming_with_linux_4ed.jpg" width="100"> | [Assembly Language Step-by-Step: Programming wiht Linux 4ed](./livros/assembly_language_step_by_step_programming_with_linux_4ed.pdf) | DUNTEMANN, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+#
+## TEORIA DOS GRAFOS
+Noções e notações básicas de grafos. Árvores. Conectividade. Coloração. Emparelhamento. Conjuntos dominantes. Planaridade. Algoritmos de busca e aplicações. Algoritmos do menor caminho. Grafos Eulerianos e Hamiltonianos. Fluxo em redes. Grafos Infinitos.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/graph_theory.jpg" width="100"> | [Graph Theory](/livros/graph_theory.pdf) | BONDY, A.; MURTY, U. S. R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/graph_theory_with_applications.jpg" width="100"> | [Graph Theory With Applications](/livros/graph_theory_with_applications.pdf) | BONDY, A.; MURTY, U. S. R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/matematica_discreta_e_suas_aplicacoes_6ed.jpg" width="100"> | [Matemática Discreta e Suas Aplicações 6ed](https://drive.google.com/file/d/1Okn6ZtTOfLGS3smhZbs5eYV73DfQpVhx/view?usp=drive_link) | ROSEN, K. H. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/grafos_e_algoritmos_computacionais_2ed.webp" width="100"> | [Grafos e Algoritmos Computacionais 2ed](/livros/grafos_e_algoritmos_computacionais_2ed.pdf) | SZWARCFITER, J. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
