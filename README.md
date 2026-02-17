@@ -38,7 +38,7 @@
 | INF-POO | [Programação Orientada a Objetos](#programação-orientada-a-objetos) | [INF-IP](#introdução-à-programação) | NC |
 | INF-PFC1 | [Projeto Final de Curso 1](#projeto-final-de-curso-1-e-2) | []() | NE |
 | INF-PFC2 | [Projeto Final de Curso 2](#projeto-final-de-curso-1-e-2) | []() | NE |
-| INF-RC | [Redes de Computadores 1]() | []() | NE |
+| INF-RC | [Redes de Computadores 1](#redes-de-computadores-1) | []() | NE |
 | INF-SD | [Sistemas Distribuídos]() | []() | NE |
 | INF-SO | [Sistemas Operacionais]() | []() | NE |
 | INF-SB | [Software Básico]() | [INF-ARQ](#arquitetura-de-computadores) | NE |
@@ -81,7 +81,7 @@
 | INF-FLP | [Fundamentos de Linguagem de Programação]() | [INF-LC]() | NE |
 | INF-GPS | [Gerência de Projeto de Software]() | []() | NE |
 | INF-GPSSI | [Gerenciamento de Processos e Serviços em SI]() | [INF-IAE]() | NE |
-| INF-GSI | [Gestão de Segurança da Informação]() | [INF-RC]() | NE |
+| INF-GSI | [Gestão de Segurança da Informação]() | [INF-RC](#redes-de-computadores-1) | NE |
 | INF-GSTI | [Gestão de Sistemas de TI]() | [INF-IAE]() | NE |
 | INF-GCTI | [Governança Corporativa e de TI]() | [INF-IAE]() | NE |
 | INF-HMM | [Heurísticas e Modelagem Multiobjetivo]() | []() | NE |
@@ -465,3 +465,12 @@ Planejamento de ações em projeto de pesquisa e/ou desenvolvimento. Preparaçã
 | <img src="./img/writing_for_computer_science_3ed.jpg" width="100"> | [Writing for Computer Science 3ed](./livros/writing_for_computer_science_3ed.pdf) | ZOBEL,J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/INF_UFG.png" width="100"> | [Trabalho de Conclusão de Curso](https://inf.ufg.br/p/30168-trabalho-de-conclusao-de-curso) | INSTITUTO DE INFORMÁTICA | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/INF_UFG.png" width="100"> | [Resolução CD/INF No 01/2023](https://files.cercomp.ufg.br/weby/up/1218/o/Resolu%C3%A7%C3%A3o_INF_01_2023.pdf) | INSTITUTO DE INFORMÁTICA | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## REDES DE COMPUTADORES 1
+Fundamentos. Arquitetura de Redes TCP/IP (Internet). Camadas de Aplicação, Transporte, Rede, Enlace e Física. Estudo de Caso de Tópicos Emergentes em Redes.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/redes_de_computadores_e_a_internet_uma_abordagem_top-down_6ed.jpg" width="100"> | [Redes de Computadores e a Internet: Uma Abordagem Top-Down 6ed](./livros/redes_de_computadores_e_a_internet_uma_abordagem_top-down_6ed.pdf) | KUROSE, J.F.; ROSS, K. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/redes_de_computadores_5ed.jpg" width="100"> | [Redes de Computadores 5ed](./livros/redes_de_computadores_5ed.pdf) | TANENBAUM, A. S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/data_and_computer_communications_10ed.jpg" width="100"> | [Data and Computer Communications 10ed](./livros/data_and_computer_communications_10ed.pdf) | STALLINGS, W | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
