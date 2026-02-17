@@ -39,7 +39,7 @@
 | INF-PFC1 | [Projeto Final de Curso 1](#projeto-final-de-curso-1-e-2) | []() | NE |
 | INF-PFC2 | [Projeto Final de Curso 2](#projeto-final-de-curso-1-e-2) | []() | NE |
 | INF-RC | [Redes de Computadores 1](#redes-de-computadores-1) | []() | NE |
-| INF-SD | [Sistemas Distribuídos]() | []() | NE |
+| INF-SD | [Sistemas Distribuídos](#sistemas-distribuídos) | []() | NE |
 | INF-SO | [Sistemas Operacionais]() | []() | NE |
 | INF-SB | [Software Básico]() | [INF-ARQ](#arquitetura-de-computadores) | NE |
 | INF-TG | [Teoria dos Grafos]() | [INF-MD](#matemática-discreta) | NE |
@@ -474,3 +474,12 @@ Fundamentos. Arquitetura de Redes TCP/IP (Internet). Camadas de Aplicação, Tra
 | <img src="./img/redes_de_computadores_e_a_internet_uma_abordagem_top-down_6ed.jpg" width="100"> | [Redes de Computadores e a Internet: Uma Abordagem Top-Down 6ed](./livros/redes_de_computadores_e_a_internet_uma_abordagem_top-down_6ed.pdf) | KUROSE, J.F.; ROSS, K. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/redes_de_computadores_5ed.jpg" width="100"> | [Redes de Computadores 5ed](./livros/redes_de_computadores_5ed.pdf) | TANENBAUM, A. S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/data_and_computer_communications_10ed.jpg" width="100"> | [Data and Computer Communications 10ed](./livros/data_and_computer_communications_10ed.pdf) | STALLINGS, W | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+#
+## SISTEMAS DISTRIBUÍDOS
+Conceitos fundamentais de sistemas distribuídos, caracterização de sistemas de computação distribuída e aplicações distribuídas (características e aspectos de projeto). Objetivos básicos de sistemas distribuídos (transparência, abertura, escalabilidade, etc). Princípios e aplicações dos principais modelos de sistemas distribuídos: sistemas cliente-servidor e sistemas peer-to- peer. Fundamentos de sistemas distribuídos (processos, sincronização, RPC/RMI, comunicação em grupo, comunicação indireta). Objetos distribuídos. Web services. Serviços de sistemas distribuídos: serviços de nomes, serviços de descoberta, compartilhamento de recursos etc. Principais tecnologias, padrões e plataformas de middleware, e seu uso como suporte para o desenvolvimento de aplicações em ambientes distribuídos abertos. Algoritmos distribuídos: relógios lógicos, estado global, coordenação, consenso, exclusão mútua e eleição. Transações distribuídas, replicação e tolerância a falhas em sistemas distribuídos. Tópicos avançados em Sistemas Distribuídos.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/sistemas_distribuidos_conceitos_e_projetos_colourius_5ed.webp" width="100"> | [Sistemas Distribuidos Conceitos e Projetos 5ed](./livros/sistemas_distribuidos_conceitos_e_projetos_colourius_5ed.pdf) | COULOURIS, G.F.; DOLLIMORE, J.; KINDBERG T.; BLAIR G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/redes_de_computadores_e_a_internet_uma_abordagem_top-down_6ed.jpg" width="100"> | [Redes de Computadores e a Internet: Uma Abordagem Top-Down 6ed](./livros/redes_de_computadores_e_a_internet_uma_abordagem_top-down_6ed.pdf) | KUROSE, J.F.; ROSS, K. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/sistemas_distribuidos_principios_e_paradigmas_2ed.jpg" width="100"> | [Sistemas Distribuídos: Princípios e Paradigmas 2ed](./livros/sistemas_distribuidos_principios_e_paradigmas_2ed.pdf) | TANENBAUM, A. S; STEEN, M. van.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
