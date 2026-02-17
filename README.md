@@ -14,7 +14,7 @@
 | IME-C2A | [Cálculo 2A](#cálculo-2a) | [IME-C1A](#cálculo-1a) (co) | NE |
 | IME-CN | [Cálculo Numérico](#cálculo-numérico) | [IME-EDO](#equações-diferenciais-ordinárias) | NE |
 | EMC-CD | [Circuitos Digitais](#circuitos-digitais) | []() | NE |
-| INF-COMP | [Compiladores](#compiladores) | [INF-LFA]() | NE |
+| INF-COMP | [Compiladores](#compiladores) | [INF-LFA](#linguagens-formais-e-autômatos) | NE |
 | INF-CS | [Computação e Sociedade](#computação-e-sociedade) | []() | NC |
 | INF-CG | [Computação Gráfica](#computação-gráfica) | [IME-GA](#geometria-analítica); [IME-AL](#álgebra-linear) | NE  |
 | INF-CP | [Computação Paralela](#computação-paralela) | []() | NE |
@@ -26,10 +26,10 @@
 | IME-GA | [Geometria Analítica](#geometria-analítica) | []() | NE |
 | INF-IA | [Inteligência Artificial](#inteligência-artificial) | [IME-PEA](#probabilidade-e-estatística-a) | NE |
 | INF-IHC | [Interação Humano-Computador](#interação-humano-computador) | []() | NC |
-| INF-ICCC | [Introdução à Computabilidade e à Complexidade Computacional](#introdução-à-computabilidade-e-à-complexidade-computacional) | [INF-LFA](); [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
+| INF-ICCC | [Introdução à Computabilidade e à Complexidade Computacional](#introdução-à-computabilidade-e-à-complexidade-computacional) | [INF-LFA](#linguagens-formais-e-autômatos); [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
 | INF-IP | [Introdução à Programação](#introdução-à-programação) | []() | NC |
 | INF-LPP | [Linguagens e Paradigmas de Programação](#linguagens-e-paradigmas-de-programação) | []() | NC |
-| INF-LFA | [Linguagens Formais e Autômatos]() | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
+| INF-LFA | [Linguagens Formais e Autômatos](#linguagens-formais-e-autômatos) | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
 | INF-LM | [Lógica Matemática](#lógica-matemática) | [INF-MD]() | NC |
 | INF-MD | [Matemática Discreta]() | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
 | INF-MPC | [Metodologia de Pesquisa em Computação]() | []() | NE |
@@ -391,6 +391,15 @@ Estudo dos conceitos de linguagens de programação e dos paradigmas de programa
 | <img src="./img/concepts_of_programming_languages_11ed.webp" width="100"> | [Concepts of Programming Languages 11ed](/livros/concepts_of_programming_languages_11ed.pdf) | SEBESTA, R. W. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/programming_language_pragmatics_3ed.jpg" width="100"> | [Programming Language Pragmatics 3ed](/livros/programming_language_pragmatics_3ed.pdf) | SCOTT, M. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/programming_language_concepts_3ed.jpg" width="100"> | [Programming Language Concepts 3ed](/livros/programming_language_concepts_3ed.pdf) | GHEZZI, C.; JAZAYERI, M. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+#
+## LINGUAGENS FORMAIS E AUTÔMATOS
+Conceitos básicos de linguagens. Mecanismos geradores (gramáticas) e reconhecedores (determinísticos e não determinísticos) de linguagens regulares, livres de contexto e sensíveis ao contexto; relação entre estas classes de linguagens e suas principais propriedades. Hierarquia de Chomsky.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/languages_and_machines_3ed.jpg" width="100"> | [Languages and machines 3ed](/livros/languages_and_machines_3ed.pdf) | SUDKAMP, T. A. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/introduction_to_the_theory_of_computation_2ed.jpg" width="100"> | [Introduction to the theory of computation 2ed](/livros/introduction_to_the_theory_of_computation_2ed.pdf) | SIPSER, M. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/introducao_a_teoria_dos_automatos_linguagens_e_computacao_2ed.jpg" width="100"> | [Introdução à teoria de autômatos, linguagens e computação 2ed](/livros/introducao_a_teoria_dos_automatos_linguagens_e_computacao_2ed.pdf) | HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## LÓGICA MATEMÁTICA
 Lógica Proposicional e de Predicados. Sistemas Dedutivos. Relações de Consequência. Correção e Completamento. Aplicações em Computação.
