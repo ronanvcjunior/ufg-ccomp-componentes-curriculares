@@ -20,8 +20,8 @@
 | INF-CP | [Computação Paralela](#computação-paralela) | []() | NE |
 | INF-ES | [Engenharia de Software](#engenharia-de-software) | []() | NC |
 | IME-EDO | [Equações Diferenciais Ordinárias](#equações-diferenciais-ordinárias) | [IME-C2A](#cálculo-2a) | NE |
-| IF-F1 | [Física I]() | [IME-C1A](#cálculo-1a) (co) | NE |
-| IF-FE1 | [Física Experimental I]() | [IF-F1]() (co) | NE |
+| IF-F1 | [Física I](#física-i) | [IME-C1A](#cálculo-1a) (co) | NE |
+| IF-FE1 | [Física Experimental I](#física-experimental-i) | [IF-F1](#física-i) (co) | NE |
 | INF-FMC | [Fundamentos de Matemática para Computação](#fundamentos-de-matemática-para-computação) | []() | NC |
 | IME-GA | [Geometria Analítica]() | []() | NE |
 | INF-IA | [Inteligência Artificial]() | [IME-PEA](#probabilidade-e-estatística-a) | NE |
@@ -74,8 +74,8 @@
 | INF-ESI1 | [Engenharia de Sistemas de Informação 1]() | []() | NE |
 | INF-ESI2 | [Engenharia de Sistemas de Informação 2]() | [INF-ESI1]() | NE |
 | INF-ESBB | [Engenharia de Software Baseada em Busca]() | []() | NE |
-| IF-F3 | [Física 3]() | [IF-F1]() | NE |
-| IF-FE3 | [Física Experimental 3]() | [IF-FE1]() | NE |
+| IF-F3 | [Física 3]() | [IF-F1](#física-i) | NE |
+| IF-FE3 | [Física Experimental 3]() | [IF-FE1](#física-experimental-i) | NE |
 | INF-FR | [Fluxos em Redes]() | [INF-TG](); [INF-PO]() | NE |
 | INF-FOTO | [Fotogrametria]() | []() | NE |
 | INF-FLP | [Fundamentos de Linguagem de Programação]() | [INF-LC]() | NE |
@@ -317,6 +317,17 @@ Introdução à Física. Cinemática e Dinâmica da Partícula. Trabalho e Energ
 | <img src="./img/fundamentos_de_fisica_mecanica_v1_9ed.jpg" width="100"> | [Fundamentos de Física: Mecânica V1 9ed](/livros/fundamentos_de_fisica_mecanica_v1_9ed.pdf) | HALLIDAY, D.; RESNICK, R.; WALKER, J.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/curso_de_fisica_basica_mecanica_v1_4ed.png" width="100"> | [Curso de Física Básica: Mecânica V1 4ed](/livros/curso_de_fisica_basica_mecanica_v1_4ed.pdf) | NUSSENZVEIG, H. M. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
+## FÍSICA EXPERIMENTAL I
+Introdução à Física Experimental. Noções básicas de estatística descritiva. Noções sobre amostragem. Classificação, estimativa e representação de incertezas. Análise de dados. Experimentos envolvendo fenômenos mecânicos.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/introducao_a_analise_de_erros_o_estudo_de_incertezas_em_medicoes_fisicas_2ed.jpg" width="100"> | [Introdução à Análise de Erros: O estudo de incertezas em medições físicas 2ed](/livros/introducao_a_analise_de_erros_o_estudo_de_incertezas_em_medicoes_fisicas_2ed.pdf) | TAYLOR, J. R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/fundamentos-da_teoria_de_erros_2ed.jpg" width="100"> | [Fundamentos da teoria de erros 2ed](/livros/fundamentos-da_teoria_de_erros_2ed.pdf) | VUOLO, J. H. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/fisica_experimental_i_notas_introdutorias.png" width="100"> | [Notas Introdutórias - Física Experimental I](/livros/fisica_experimental_i_notas_introdutorias.pdf) |  Instituto de Física - UFG | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/probabilidade_e_estatistica_para_engenharia_e_ciencias_9ed.webp" width="100"> | [Probabilidade e Estatística para Engenharia e Ciências 9ed](https://drive.google.com/file/d/1OdNqajscyaZvn2an1SLtxLA4HPLOQutB/view?usp=drive_link) | WALPOLE, R. E.; MYERS, R. H.; MYERS, S. L.; YE, K. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/nocoes_de_probabilidade_e_estatistica_7ed.jpg" width="100"> | [Noções de Probabilidade e Estatística 7ed](/livros/nocoes_de_probabilidade_e_estatistica_7ed.pdf) | MAGALHÃES, M. N. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
 ## FUNDAMENTOS DE MATEMÁTICA PARA COMPUTAÇÃO
 Noções de lógica, Introdução a demonstrações, Indução matemática, Recursividade e Relações de Recorrência, Conjuntos e Combinatória. Séries e sequências. Relações e Funções. Representações numéricas e Mudança de base numérica.
 #
@@ -370,7 +381,7 @@ Estatística descritiva. Noções sobre amostragem. Introdução à teoria de co
 |------------|------------|------------|------------|
 | <img src="./img/probabilidade_e_estatistica_para_engenharia_e_ciencias_9ed.webp" width="100"> | [Probabilidade e Estatística para Engenharia e Ciências 9ed](https://drive.google.com/file/d/1OdNqajscyaZvn2an1SLtxLA4HPLOQutB/view?usp=drive_link) | WALPOLE, R. E.; MYERS, R. H.; MYERS, S. L.; YE, K. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/nocoes_de_probabilidade_e_estatistica_7ed.jpg" width="100"> | [Noções de Probabilidade e Estatística 7ed](/livros/nocoes_de_probabilidade_e_estatistica_7ed.pdf) | MAGALHÃES, M. N. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
-| <img src="./img/probabilidade_aplicaoes_a_estatistica_2ed.jpg" width="100"> | [Probabilidade: Aplicações àEstatística 2ed](/livros/probabilidade_aplicaoes_a_estatistica_2ed.pdf) | MEYER, P. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/probabilidade_aplicaoes_a_estatistica_2ed.jpg" width="100"> | [Probabilidade: Aplicações à Estatística 2ed](/livros/probabilidade_aplicaoes_a_estatistica_2ed.pdf) | MEYER, P. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## PROGRAMAÇÃO ORIENTADA A OBJETOS
 Abstração e tipos abstratos de dados. Classes, métodos, encapsulamento, interface. Mensagens, instâncias e inicialização. Herança e composição. Polimorfismo. Uso de uma linguagem orientada a objetos. Noções de UML. Noções de padrões de projeto orientado a objetos.
