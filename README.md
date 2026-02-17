@@ -40,7 +40,7 @@
 | INF-PFC2 | [Projeto Final de Curso 2](#projeto-final-de-curso-1-e-2) | []() | NE |
 | INF-RC | [Redes de Computadores 1](#redes-de-computadores-1) | []() | NE |
 | INF-SD | [Sistemas Distribuídos](#sistemas-distribuídos) | []() | NE |
-| INF-SO | [Sistemas Operacionais]() | []() | NE |
+| INF-SO | [Sistemas Operacionais](#sistemas-operacionais) | []() | NE |
 | INF-SB | [Software Básico]() | [INF-ARQ](#arquitetura-de-computadores) | NE |
 | INF-TG | [Teoria dos Grafos]() | [INF-MD](#matemática-discreta) | NE |
 #
@@ -483,3 +483,12 @@ Conceitos fundamentais de sistemas distribuídos, caracterização de sistemas d
 | <img src="./img/sistemas_distribuidos_conceitos_e_projetos_colourius_5ed.webp" width="100"> | [Sistemas Distribuidos Conceitos e Projetos 5ed](./livros/sistemas_distribuidos_conceitos_e_projetos_colourius_5ed.pdf) | COULOURIS, G.F.; DOLLIMORE, J.; KINDBERG T.; BLAIR G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/redes_de_computadores_e_a_internet_uma_abordagem_top-down_6ed.jpg" width="100"> | [Redes de Computadores e a Internet: Uma Abordagem Top-Down 6ed](./livros/redes_de_computadores_e_a_internet_uma_abordagem_top-down_6ed.pdf) | KUROSE, J.F.; ROSS, K. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/sistemas_distribuidos_principios_e_paradigmas_2ed.jpg" width="100"> | [Sistemas Distribuídos: Princípios e Paradigmas 2ed](./livros/sistemas_distribuidos_principios_e_paradigmas_2ed.pdf) | TANENBAUM, A. S; STEEN, M. van.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## SISTEMAS OPERACIONAIS
+Gerenciamento de processos. Gerenciamento de memória. Sistemas de arquivos. Processamento de entrada/saída. Virtualização. Sistemas multiprocessados.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/sistemas_operacionais_modernos_4ed.jpg" width="100"> | [Sistemas Operacionais Modernos 4ed](./livros/sistemas_operacionais_modernos_4ed.pdf) | TANENBAUM, A. S. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/fundamentos_de_sistemas_operacionais_9ed.png" width="100"> | [Fundamentos de Sistemas Operacionais 9ed](./livros/fundamentos_de_sistemas_operacionais_9ed.pdf) | SILBERSCHATZ, A.; GALVIN, P.; GAGNE, G. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/sistemas_operacionais_conceitos_e_mecanismos.png" width="100"> | [Sistemas Operacionais: Conceitos e Mecanismos](https://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start) | MAZIERO, C. A. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
