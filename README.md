@@ -26,7 +26,7 @@
 | IME-GA | [Geometria Analítica](#geometria-analítica) | []() | NE |
 | INF-IA | [Inteligência Artificial](#inteligência-artificial) | [IME-PEA](#probabilidade-e-estatística-a) | NE |
 | INF-IHC | [Interação Humano-Computador](#interação-humano-computador) | []() | NC |
-| INF-ICCC | [Introdução à Computabilidade e à Complexidade Computacional]() | [INF-LFA](); [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
+| INF-ICCC | [Introdução à Computabilidade e à Complexidade Computacional](#introdução-à-computabilidade-e-à-complexidade-computacional) | [INF-LFA](); [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
 | INF-IP | [Introdução à Programação](#introdução-à-programação) | []() | NC |
 | INF-LPP | [Linguagens e Paradigmas de Programação](#linguagens-e-paradigmas-de-programação) | []() | NC |
 | INF-LFA | [Linguagens Formais e Autômatos]() | [INF-FMC](#fundamentos-de-matemática-para-computação) | NE |
@@ -61,7 +61,7 @@
 | INF-ADSC | [Avaliação de Desempenho de Sistemas Computacionais]() | []() | NE |
 | INF-BDD | [Banco de Dados Distribuídos]() | []() | NE |
 | INF-CC | [Classes de Grafos]() | [INF-TG]() | NE |
-| INF-CPAR | [Complexidade Parametrizada]() | [INF-ICCC]() | NE |
+| INF-CPAR | [Complexidade Parametrizada]() | [INF-ICCC](#introdução-à-computabilidade-e-à-complexidade-computacional) | NE |
 | INF-CAD | [Computação de Alto Desempenho]() | []() | NE |
 | INF-CE | [Computação Evolucionária]() | []() | NE |
 | INF-CMU | [Computação Móvel e Ubíqua]() | []() | NE |
@@ -142,7 +142,7 @@
 | INF-TLSC | [Tópicos em Lógica e Semântica de Computação]() | [INF-PF]() | NE |
 | INF-TSC | [Tópicos em Sistemas de Computação]() | []() | NE |
 | INF-TTS | [Tópicos em Teste de Software]() | []() | NE |
-| INF-TECC | [Tópicos Especiais em Complexidade da Computação]() | [INF-APA](#análise-e-projeto-de-algoritmos); [INF-ICCC]() | NE |
+| INF-TECC | [Tópicos Especiais em Complexidade da Computação]() | [INF-APA](#análise-e-projeto-de-algoritmos); [INF-ICCC](#introdução-à-computabilidade-e-à-complexidade-computacional) | NE |
 | INF-VFP  | [Verificação Formal de Programas]() | [INF-LC]() | NE |
 | INF-VC | [Visão Computacional]() | [INF-PDI]() | NE |
 | INF-VR | [Visão Robótica]() | []() | NE |
@@ -364,6 +364,14 @@ Aspectos gerais sobre interação humano-computador. Características humanísti
 | <img src="./img/human-computer_interaction_3ed.jpg" width="100"> | [Human-Computer Interaction 3ed](/livros/human-computer_interaction_3ed.pdf) | DIX, Alan; FINLAY, J. E.; ABOWD, G. D.; BEALE, R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/designing_interfaces_patterns_for_effective_interaction_design_2ed.jpg" width="100"> | [Designing Interfaces: Patterns for Effective Interaction Design 2ed](/livros/designing_interfaces_patterns_for_effective_interaction_design_2ed.pdf) | TIDWELL, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/designing_interfaces_patterns_for_effective_interaction_design_3ed.jpg" width="100"> | [Designing Interfaces: Patterns for Effective Interaction Design 3ed](/livros/designing_interfaces_patterns_for_effective_interaction_design_3ed.pdf) | TIDWELL, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+#
+## INTRODUÇÃO À COMPUTABILIDADE E À COMPLEXIDADE COMPUTACIONAL
+Noções de computabilidade efetiva. Modelos de computação. Tese de Church-Turing. Decidibilidade. Redutibilidade. Problemas indecidíveis. Complexidade de tempo. Complexidade de Espaço. Teoremas de incompletude de Gödel
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/introduction_to_the_theory_of_computation_2ed.jpg" width="100"> | [Introduction to the theory of computation 2ed](/livros/introduction_to_the_theory_of_computation_2ed.pdf) | SIPSER, M. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
+| <img src="./img/introducao_a_teoria_dos_automatos_linguagens_e_computacao_2ed.jpg" width="100"> | [Introdução à teoria de autômatos, linguagens e computação 2ed](/livros/introducao_a_teoria_dos_automatos_linguagens_e_computacao_2ed.pdf) | HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## INTRODUÇÃO À PROGRAMAÇÃO
 Introdução a algoritmos. Conceitos básicos de programas: constantes; tipos de dados primitivos; variáveis; atribuição; entrada e saída de dados; expressões; estruturas de decisão; estruturas de repetição. Ponteiro. Estruturas de dados homogêneas e heterogêneas: vetores, matrizes, cadeias de caracteres, registros. Subprogramas: funções; passagens de parâmetros por valor e por referência. Manipulação de arquivos: abertura, fechamento, leitura e gravação. Tipos de acesso a arquivos: sequencial e indexado. Tipos de arquivos (texto e binário). Transcrição de algoritmos para uma linguagem de programação. Domínio de uma linguagem de programação: sintaxe e semântica; interpretação e compilação de programas; técnicas de depuração.
