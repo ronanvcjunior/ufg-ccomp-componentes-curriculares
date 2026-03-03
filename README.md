@@ -345,6 +345,8 @@ Vetores no plano e no espaço: Produto escalar e vetorial; Retas: equações car
 | <img src="./img/geometria_analitica_2ed.jpg" width="100"> | [Geometria analítica 2ed](/livros/geometria_analitica_2ed.pdf) | REIS, G. L; SILVA, V. V. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/coordenadas_no_plano_4ed.webp" width="100"> | [Coordenadas no plano 4ed](/livros/coordenadas_no_plano_4ed.pdfr) | LIMA, E. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/coordenadas_no_plano_5ed.webp" width="100"> | [Coordenadas no plano 5ed](/livros/coordenadas_no_plano_5ed.pdf) | LIMA, E. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/geometria_analítica_2ed.jpg" width="100"> | [Geometria analítica 2ed](/livros/geometria_analítica_2ed) | STEINBRUCH, A., WINTERLE, P.  | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/geometria_analitica_um_tratamento_vetorial_3ed.jpg" width="100"> | [Geometria Analítica um Tratamento Vetorial 3ed](/livros/geometria_analitica_um_tratamento_vetorial_3ed) | BOULOS, P. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
 ## INTELIGÊNCIA ARTIFICIAL
 Visão geral da Inteligência Artificial e suas aplicações. Representação do conhecimento. Resolução de problemas por meio de buscas. Incerteza. Lógica Fuzzy. Aprendizado de máquina. Aplicações práticas utilizando técnicas de Inteligência Artificial.
