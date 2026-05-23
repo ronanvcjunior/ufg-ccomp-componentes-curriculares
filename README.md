@@ -49,8 +49,8 @@
 
 | Sigla | Nome da Disciplina | Requisitos | Núcleo |
 |------------|------------|------------|------------|
-| INF-AA | [Algoritmos de Aproximação]() | [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
-| INF-AG | [Algoritmos em Grafos]() | [INF-TG](#teoria-dos-grafos) | NE |
+| INF-AA | [Algoritmos de Aproximação](#algoritmos-de-aproximação) | [INF-APA](#análise-e-projeto-de-algoritmos) | NE |
+| INF-AG | [Algoritmos em Grafos](#algoritmos-em-grafos) | [INF-TG](#teoria-dos-grafos) | NE |
 | INF-AMC | [Aplicações de Microcontroladores]() | [INF-MICRO]() | NE |
 | INF-AM | [Aprendizado de Máquina]() | []() | NE |
 | INF-AMNS | [Aprendizado de Máquina Não Supervisionado]() | [INF-IA](#inteligência-artificial) | NE |
@@ -149,7 +149,8 @@
 | INF-VI | [Visualização de Informações]() | []() | NE |
 | INF-WS  | [Web Semântica]() | []() | NE |
 #
-# Ementas e Bibliografias dos Componentes Curriculares
+
+# Ementas e Bibliografias dos Componentes Curriculares Obrigatórias
 
 ## ÁLGEBRA LINEAR
 Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Autovalores e autovetores. Espaços com produto interno.
@@ -187,7 +188,7 @@ Medidas de complexidade, análise assintótica de limites de complexidade para a
 #
 | Livro | Nome da Obra | Autor | Idioma |
 |------------|------------|------------|------------|
-| <img src="./img/algoritmos_teoria_e_pratica_3ed.jpg" width="100"> | [ Algoritmos: Teoria e Prática. 3ed](/livros/algoritmos_teoria_e_pratica_3ed.pdf) | CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/algoritmos_teoria_e_pratica_3ed.jpg" width="100"> | [Algoritmos: Teoria e Prática. 3ed](/livros/algoritmos_teoria_e_pratica_3ed.pdf) | CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/fundamentals_of_algorithms.jpg" width="100"> | [Fundamentals of Algorithmics](/livros/fundamentals_of_algorithms.pdf) | BRASSARD, G; BRATLEY, P. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/algoritmos.jpg" width="100"> | [Algoritmos](/livros/algoritmos.pdf) | PAPADIMITRIOU, C. H.; VAZIRANI, U. V. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 #
@@ -518,3 +519,22 @@ Noções e notações básicas de grafos. Árvores. Conectividade. Coloração. 
 | <img src="./img/graph_theory_with_applications.jpg" width="100"> | [Graph Theory With Applications](/livros/graph_theory_with_applications.pdf) | BONDY, A.; MURTY, U. S. R. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176386-56cfbf3a-27b5-40e6-bf86-892f8645cbc3.png) |
 | <img src="./img/matematica_discreta_e_suas_aplicacoes_6ed.jpg" width="100"> | [Matemática Discreta e Suas Aplicações 6ed](https://drive.google.com/file/d/1Okn6ZtTOfLGS3smhZbs5eYV73DfQpVhx/view?usp=drive_link) | ROSEN, K. H. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 | <img src="./img/grafos_e_algoritmos_computacionais_2ed.webp" width="100"> | [Grafos e Algoritmos Computacionais 2ed](/livros/grafos_e_algoritmos_computacionais_2ed.pdf) | SZWARCFITER, J. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+
+# Ementas e Bibliografias dos Componentes Curriculares Optativas
+
+## ALGORITMOS DE APROXIMAÇÃO
+Revisão das classes de Complexidade P, NP, NP-completo e NP-difícil. Métodos de projeto de algoritmos de aproximação: métricos, de arredondamento, probabilísticos, baseados em programação linear e semidefinida, primais-duais. Algoritmos de aproximação para problemas de escalonamento, bin packing, projeto de redes e otimização em grafos. Classes de complexidade Max SNP e APX, reduções. Resultados sobre inaproximabilidade.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/uma_introducao_sucinta_a_algoritmos_de_aproximacao.webp" width="100"> | [Uma Introdução Sucinta a Algoritmos de Aproximação](./livros/uma_introducao_sucinta_a_algoritmos_de_aproximacao.pdf) | CARVALHO, M. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
+## ALGORITMOS EM GRAFOS
+Revisão de algoritmos de busca em largura, profundidade e caminhos mínimos. Busca em Largura Lexicográfica. Busca Irrestrita. Reconhecimento dos Grafos Cordais. Ordenação topológica. Componentes fortemente conexas. Componentes biconexas. Árvore geradora mínima. Particionamento de árvores. Coloração aproximada. Alteração estrutural. Número cromático. k-ésimos caminhos mínimos. Emparelhamentos máximos.
+#
+| Livro | Nome da Obra | Autor | Idioma |
+|------------|------------|------------|------------|
+| <img src="./img/teoria_computacional_de_grafos_os_algoritmos.webp" width="100"> | [Teoria computacional de grafos: Os Algoritmos](./livros/teoria_computacional_de_grafos_os_algoritmos.pdf) | SZWARCFITER, J. L. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| <img src="./img/algoritmos_teoria_e_pratica_3ed.jpg" width="100"> | [Algoritmos: Teoria e Prática. 3ed](/livros/algoritmos_teoria_e_pratica_3ed.pdf) | CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+#
